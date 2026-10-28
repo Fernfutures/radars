@@ -1,0 +1,146 @@
+{
+ "client": "LCL",
+ "key": "C01-ES",
+ "updated": "2026-10-28T18:30:47Z",
+ "hero": {
+  "video": null,
+  "image": null,
+  "credit": null
+ },
+ "headline": {
+  "title": "Acquisitions, disposals and venture stakes sets the pace",
+  "text": "1 organisation announced acquisitions, disposals and venture stakes in the last 30 days, none in the 30 days before; new facilities and capacity expansion (1) follows."
+ },
+ "themes": [
+  {
+   "theme": "Acquisitions, disposals and venture stakes",
+   "description": "Buying, selling or carving out businesses, taking minority stakes, and managing integration or separation after deals.",
+   "companies": 1,
+   "previous": 0
+  },
+  {
+   "theme": "New facilities and capacity expansion",
+   "description": "Building new plants, logistics sites and data centres, or expanding existing core facilities to add capacity.",
+   "companies": 1,
+   "previous": 0
+  }
+ ],
+ "stories": [
+  {
+   "date": "2026-10-27",
+   "company": "Embutidos la Granja SL",
+   "title": "Expansion of Embutidos La Granja's facilities in Arganda del Rey (Madrid) to increase production capacity and respond faster to orders and demand peaks",
+   "summary": "Expansion of Embutidos La Granja's facilities in Arganda del Rey (Madrid) to increase production capacity and respond faster to orders and demand peaks",
+   "outlet": "financialfood.es",
+   "url": "https://financialfood.es/comienza-a-operar-el-grancay-foods-fruto-de-la-integracion-de-embutidos-la-granja-y-adobos-caysan",
+   "theme": "New facilities and capacity expansion",
+   "image": null,
+   "image_credit": null
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Embutidos la Granja SL",
+   "title": "Completed integration of Adobos Caysan (Caleya y Santiago) and Embutidos La Granja into a single food group, Grancay Foods, with common management structure",
+   "summary": "Completed integration of Adobos Caysan (Caleya y Santiago) and Embutidos La Granja into a single food group, Grancay Foods, with common management structure",
+   "outlet": "financialfood.es",
+   "url": "https://financialfood.es/comienza-a-operar-el-grancay-foods-fruto-de-la-integracion-de-embutidos-la-granja-y-adobos-caysan",
+   "theme": "Acquisitions, disposals and venture stakes",
+   "image": null,
+   "image_credit": null
+  }
+ ],
+ "brand_short": "LCL",
+ "brand_name": "La Cartonera Lucentina",
+ "copy": {
+  "chart_caption": "Food producers announcing initiatives in each strategic area during the last 30 days.",
+  "stories_k": "Food industry radar",
+  "stories_h": "The moves shaping the sector",
+  "stories_lead": "New investments, launches, markets and business models from food producers in Spain.",
+  "search_ph": "Search companies, initiatives or trends"
+ },
+ "host_note": {
+  "name": "Rafael Ruiz",
+  "role": "Commercial Director · La Cartonera Lucentina",
+  "photo": "",
+  "text": "When a food producer invests in a new line, launches a product or enters a new market, packaging decisions made early can have a direct impact on efficiency, launch timing and supply continuity. At LCL, we work alongside our customers from the beginning to develop packaging that is ready for the operation, not adapted to it afterwards.",
+  "link_text": "",
+  "theme": ""
+ },
+ "offers": [
+  {
+   "id": "create-packaging-for-direct-to-consumer-growth",
+   "theme": "Selling through more digital channels",
+   "name": "Create packaging for direct-to-consumer growth",
+   "title": "Protect the product. Strengthen the experience.",
+   "claim": "Make every delivery another touchpoint for your brand.",
+   "points": [
+    "Formats designed for e-commerce and direct distribution",
+    "High-impact digital printing",
+    "Flexible production for campaigns, gifting and limited editions"
+   ],
+   "body": "LCL develops packaging that combines protection, logistics efficiency and brand experience for e-commerce, subscriptions, gifting and other direct-to-consumer channels.",
+   "cta_text": "Talk to us about e-commerce packaging"
+  },
+  {
+   "id": "grow-your-international-business",
+   "theme": "Entering and growing abroad",
+   "name": "Grow your international business",
+   "title": "Packaging engineered to travel",
+   "claim": "Protect your products, your brand and your margins as you enter new markets.",
+   "points": [
+    "Protective formats designed for international transport",
+    "Packaging optimised for pallet and freight efficiency",
+    "Flexible formats for different markets and commercial requirements"
+   ],
+   "body": "LCL develops export-ready packaging that protects product integrity from origin to destination while helping optimise space, logistics and presentation across international markets.",
+   "cta_text": "Talk to us about export packaging"
+  },
+  {
+   "id": "launch-and-differentiate-new-products",
+   "theme": "Marketing and brand campaigns",
+   "name": "Launch and differentiate new products",
+   "title": "From concept to market with greater flexibility",
+   "claim": "Give every new product the packaging it needs to stand out, without letting packaging slow the launch.",
+   "points": [
+    "High-impact digital printing",
+    "Flexible production for launches, campaigns and new formats",
+    "Packaging designed for different products and sales channels"
+   ],
+   "body": "LCL combines structural and graphic design with digital printing to develop differentiated packaging for new products, categories and campaigns, from initial launches through to larger production volumes.",
+   "cta_text": "Talk to us about your next launch"
+  },
+  {
+   "id": "optimise-your-operations",
+   "theme": "Simplifying processes and lean working",
+   "name": "Optimise your operations",
+   "title": "Packaging designed around your production",
+   "claim": "Make packaging part of the efficiency of your new line from day one.",
+   "points": [
+    "Formats designed around production, packing and palletisation requirements",
+    "Packaging engineered to improve operational and logistics efficiency",
+    "Safety stock to protect continuity of supply"
+   ],
+   "body": "LCL works with your teams to develop packaging formats that integrate with your production and logistics processes, helping reduce unnecessary handling, improve pallet efficiency and support a smooth ramp-up of new capacity.",
+   "cta_text": "Talk to us about your next line"
+  },
+  {
+   "id": "reduce-your-packaging-impact",
+   "theme": "Waste, water and circular materials",
+   "name": "Reduce your packaging impact",
+   "title": "Sustainability designed into the pack",
+   "claim": "Turn your packaging into a visible part of your environmental strategy.",
+   "points": [
+    "Recycled and easily recyclable cardboard",
+    "FSC-certified materials",
+    "Packaging designed to optimise material use and logistics"
+   ],
+   "body": "LCL develops fibre-based packaging solutions that help food producers reduce environmental impact while maintaining the protection, functionality and performance their supply chains require.",
+   "cta_text": "Explore sustainable packaging"
+  }
+ ],
+ "default_offer": {
+  "body": "From structural design and digital printing to export formats, sustainable packaging and supply continuity, LCL works alongside food producers to turn packaging into an enabler of growth.",
+  "cta_text": "Talk to our team"
+ },
+ "archive": []
+}
