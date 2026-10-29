@@ -1,0 +1,299 @@
+{
+ "client": "VAZLO",
+ "key": "G45-US",
+ "updated": "2026-10-29T18:30:00Z",
+ "hero": {
+  "video": "vazlo-hero.mp4",
+  "image": "hero-poster.jpg",
+  "credit": "Vazlo Auto Parts"
+ },
+ "headline": {
+  "title": "Distribution capacity is setting the pace",
+  "text": "The largest distributors are adding hubs, stores and automation at once, while loyalty programmes and rebuilt online stores show where the digital race is heading."
+ },
+ "themes": [
+  {
+   "theme": "Distribution Expansion",
+   "description": "New or expanded distribution centers, hubs and store networks to improve availability.",
+   "companies": 5,
+   "previous": 5,
+   "offer": {
+    "id": "inv",
+    "name": "Optimize Sourcing & Inventory"
+   }
+  },
+  {
+   "theme": "New Markets",
+   "description": "Distributors entering new towns, states or dealer networks.",
+   "companies": 2,
+   "previous": 2,
+   "offer": {
+    "id": "mkt",
+    "name": "Expand Your Channels & Markets"
+   }
+  },
+  {
+   "theme": "E-commerce & Digital Channels",
+   "description": "Online stores, loyalty programmes and digital catalogs for workshops and consumers.",
+   "companies": 2,
+   "previous": 2,
+   "offer": null
+  },
+  {
+   "theme": "Customer Growth",
+   "description": "Events, training and programmes that deepen relationships with repair shops.",
+   "companies": 1,
+   "previous": 1,
+   "offer": {
+    "id": "cust",
+    "name": "Win, Grow & Retain Customers"
+   }
+  }
+ ],
+ "stories": [
+  {
+   "date": "2026-10-28",
+   "company": "O'Reilly Automotive",
+   "title": "opens 63 net new stores in the third quarter, reaching 6,758 locations",
+   "summary": "O'Reilly reported 63 net new stores in Q3 (54 in the US, 8 in Mexico, 1 in Canada) and 173 year to date, with no closures. It remains on track for 225–235 openings in 2026 and credits new-store performance and double-digit professional growth for its share gains.",
+   "outlet": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/10/28/3390787/10672/en/o-reilly-automotive-inc-reports-third-quarter-2026-results.html",
+   "theme": "Distribution Expansion",
+   "image": "still-1.jpg",
+   "image_credit": "Vazlo Auto Parts"
+  },
+  {
+   "date": "2026-10-28",
+   "company": "Advance Auto Parts",
+   "title": "opens its first store in Richboro, Pennsylvania",
+   "summary": "Advance is opening a store on 2nd Street Pike in Richboro, Bucks County, its first in the town, with a ribbon cutting on 29 October. The opening includes a $1,000 donation to a local automotive technician programme.",
+   "outlet": "Bucks County Herald",
+   "url": "https://www.buckscountyherald.com/news/business/advance-auto-parts-opening-in-richboro/article_fd197656-858c-4177-a39c-d997bdf1e5f6.html",
+   "theme": "New Markets",
+   "image": "still-2.jpg",
+   "image_credit": "Vazlo Auto Parts"
+  },
+  {
+   "date": "2026-10-15",
+   "company": "NAPA Auto Parts",
+   "title": "automates its flow-center fulfilment with a goods-to-person storage and retrieval system",
+   "summary": "Genuine Parts' NAPA has engaged Hy-Tek Intralogistics to deploy a Hai Robotics HaiPick system as part of a transformation of its flow-center operations. The system is meant to raise storage density, throughput and order accuracy and to scale with NAPA's growth.",
+   "outlet": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/10/15/3382009/0/en/hy-tek-intralogistics-selected-to-deliver-advanced-warehouse-automation-for-napa-auto-parts.html",
+   "theme": "Distribution Expansion",
+   "image": "still-3.jpg",
+   "image_credit": "Vazlo Auto Parts"
+  },
+  {
+   "date": "2026-10-14",
+   "company": "Mighty Auto Parts",
+   "title": "signs McDonald Automotive as its 29th dealer-group franchise, covering the Denver metro area",
+   "summary": "Mighty announced a franchise agreement with McDonald Automotive, a 13-dealership group in the Denver area, which will operate as McDonald Mighty from warehouse space at its Audi dealership in Parker, Colorado. Parts distribution comes in-house for the dealer group.",
+   "outlet": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/mighty-auto-parts-announces-new-franchise-partnership-with-mcdonald-automotive-302907614.html",
+   "theme": "New Markets",
+   "image": "still-4.jpg",
+   "image_credit": "Vazlo Auto Parts"
+  },
+  {
+   "date": "2026-10-14",
+   "company": "XL Parts | The Parts House",
+   "title": "expands its VIP Event Series to a two-day format in Houston, Dallas and Orlando",
+   "summary": "The 2026 series combined product training, supplier showcases, awards and customer trade shows for independent repair shops. Houston and Orlando moved to a two-day format, and Orlando marked the company's return to that market for the series.",
+   "outlet": "Aftermarket Business World",
+   "url": "https://www.vehicleservicepros.com/aftermarket-business-world/news/article/55411850/the-parts-house-expands-vip-event-series",
+   "theme": "Customer Growth",
+   "image": "still-5.jpg",
+   "image_credit": "Vazlo Auto Parts"
+  },
+  {
+   "date": "2026-10-13",
+   "company": "CarParts.com",
+   "title": "launches CarParts+ Rewards, its first points-based loyalty programme",
+   "summary": "Customers earn points on every dollar across a catalogue of more than 1.5 million parts, with a free tier and a $79-a-year Gold tier that bundles roadside assistance, free shipping and extended returns. Since a soft launch in September the programme has enrolled over 118,000 members.",
+   "outlet": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/carpartscom-launches-carparts-rewards-its-first-points-based-loyalty-program-302906291.html",
+   "theme": "E-commerce & Digital Channels",
+   "image": "still-6.jpg",
+   "image_credit": "Vazlo Auto Parts"
+  },
+  {
+   "date": "2026-10-02",
+   "company": "AutoZone",
+   "title": "completes its US distribution-center buildout and targets 300 mega hubs within three years",
+   "summary": "On its fiscal Q4 call AutoZone said the US distribution expansion is complete, with two new distribution centers and two direct-import facilities. It opened 39 mega hubs in the year to reach 172, plans more than 40 in fiscal 2027, and keeps roughly $1.5 billion of annual capital on stores, hubs and mega hubs.",
+   "outlet": "Supply Chain Dive",
+   "url": "https://www.supplychaindive.com/news/autozone-hones-in-on-domestic-distribution-network/831931/",
+   "theme": "Distribution Expansion",
+   "image": "still-7.jpg",
+   "image_credit": "Vazlo Auto Parts"
+  },
+  {
+   "date": "2026-09-30",
+   "company": "Advance Auto Parts",
+   "title": "opens three stores in Georgia, Massachusetts and Maryland, with the Athens site doubling as a market hub",
+   "summary": "Advance opened a fifth Athens, Georgia store that also operates as a market hub for same-day fulfilment to nearby stores, plus second stores in Randolph, Massachusetts and Lanham, Maryland. Each opening included a donation to a local automotive technology programme.",
+   "outlet": "Aftermarket Matters",
+   "url": "https://www.aftermarketmatters.com/mechanical-repair/advance-auto-parts-opens-three-new-stores-in-the-east/",
+   "theme": "Distribution Expansion",
+   "image": "still-8.jpg",
+   "image_credit": "Vazlo Auto Parts"
+  },
+  {
+   "date": "2026-09-22",
+   "company": "JEGS High Performance",
+   "title": "relaunches its e-commerce site covering 1.8 million parts and 300 million vehicle applications",
+   "summary": "JEGS went live with a rebuilt digital commerce platform on PhaseZero, replacing a system that had run for more than two decades. It adds fitment-based search, live pricing and inventory, delivery estimates and more than 20 integrations, with AI-assisted commerce planned next.",
+   "outlet": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/jegs-launches-transformed-digital-commerce-platform-powered-by-phasezero-302885764.html",
+   "theme": "E-commerce & Digital Channels",
+   "image": "still-9.jpg",
+   "image_credit": "Vazlo Auto Parts"
+  },
+  {
+   "date": "2026-08-10",
+   "company": "Parts Authority",
+   "title": "opens a 450,000 sq ft distribution center in Olive Branch, Mississippi, its first in the state",
+   "summary": "The Lake Success, New York distributor opened the hub near Memphis in a major logistics corridor, fully staffed from day one. It is meant to speed deliveries to commercial customers and repair shops nationwide and to broaden inventory across the network.",
+   "outlet": "Parts Authority",
+   "url": "https://partsauthority.com/pap_uploadfile/pressrelease/pr_20260810102543.pdf",
+   "theme": "Distribution Expansion",
+   "image": "still-10.jpg",
+   "image_credit": "Vazlo Auto Parts"
+  }
+ ],
+ "brand_short": "Vazlo",
+ "brand_name": "Vazlo",
+ "copy": {
+  "chart_caption": "Companies announcing initiatives in each strategic area during the last 30 days.",
+  "stories_k": "Aftermarket intelligence",
+  "stories_h": "The moves shaping the aftermarket",
+  "stories_lead": "New investments, product launches, market entries, channel expansion and competitive moves across the automotive aftermarket.",
+  "search_ph": "Search company, initiative or theme"
+ },
+ "host_note": {
+  "name": "Julieta Vázquez",
+  "role": "Strategy & Business Development Director · Vazlo",
+  "photo": "",
+  "text": "More part numbers do not automatically create more sales. The opportunity is knowing which applications have demand, where coverage gaps exist and how much inventory each category really needs. When that intelligence is connected to engineering and production, assortment becomes a growth tool.",
+  "link_text": "See how Vazlo optimizes assortment & inventory",
+  "theme": "Distribution Expansion"
+ },
+ "offers": [
+  {
+   "id": "inv",
+   "theme": "Inventory Optimization",
+   "name": "Optimize Sourcing & Inventory",
+   "title": "Improve availability without overinvesting in inventory",
+   "claim": "Align inventory with the applications and demand your market actually needs.",
+   "points": [
+    "Demand-based application coverage",
+    "Integrated production aligned with operational needs",
+    "Regional sourcing from Mexico and the U.S.",
+    "Product controls that support reliability and reduce returns"
+   ],
+   "body": "Vazlo combines demand intelligence with integrated production and regional supply to help reduce lost sales from stockouts while limiting capital tied up in slow-moving part numbers. We work with your team to balance coverage, product reliability and inventory investment around the needs of your market.",
+   "cta_text": "Optimize My Inventory"
+  },
+  {
+   "id": "mix",
+   "theme": "Category Growth",
+   "name": "Improve Product Mix & Category Profitability",
+   "title": "Make every part number work harder",
+   "claim": "Build an assortment aligned with demand, turnover and commercial opportunity.",
+   "points": [
+    "Joint analysis of demand, coverage, sales and inventory",
+    "Identification of high-potential applications",
+    "Part-number mapping and phased assortment transitions",
+    "Continuous category review through PARTNER"
+   ],
+   "body": "Vazlo combines market intelligence with your sales and inventory data to support better decisions on which part numbers to add, retain, replace or adjust. The objective is not simply more SKUs — it is a more productive and profitable category.",
+   "cta_text": "Review My Category"
+  },
+  {
+   "id": "cust",
+   "theme": "New Sales Channels",
+   "name": "Win, Grow & Retain Customers",
+   "title": "Cover more repair needs and create more sales opportunities",
+   "claim": "Give professional and DIY customers more reasons to find, buy and return to your business.",
+   "points": [
+    "Assortment informed by vehicle population and regional demand",
+    "New applications for unmet repair needs",
+    "Specialized mount and vibration engineering",
+    "Technical support for correct selection and use"
+   ],
+   "body": "Vehicle population and application intelligence guide Vazlo’s product development. Engineering, laboratory resources and integrated manufacturing turn that intelligence into reliable solutions that increase relevant coverage and help your business serve more repair needs.",
+   "cta_text": "Find Growth Opportunities"
+  },
+  {
+   "id": "range",
+   "theme": "Assortment Expansion",
+   "name": "Broaden Your Assortment & Business Lines",
+   "title": "Turn unmet repair needs into new revenue",
+   "claim": "Identify coverage gaps and develop products with real commercial potential.",
+   "points": [
+    "Identification of missing applications",
+    "Flexible rubber, aluminum and steel production",
+    "Products developed to specification",
+    "Repair kits that support complete repairs and additional sales"
+   ],
+   "body": "Vazlo combines application intelligence, technical resources and flexible manufacturing to identify gaps in your assortment and develop new part numbers around real market needs. From individual applications to repair kits, we help convert unmet repair demand into differentiated commercial opportunities.",
+   "cta_text": "Expand My Assortment"
+  },
+  {
+   "id": "mkt",
+   "theme": "New Markets",
+   "name": "Expand Your Channels & Markets",
+   "title": "Enter new markets with the right assortment",
+   "claim": "Align coverage and availability with the demand profile of each market and channel.",
+   "points": [
+    "Opportunity identification by geography and application",
+    "Assortment tailored to regional vehicle populations",
+    "Manufacturing in Mexico with U.S. inventory and distribution",
+    "Digital catalog, EDI and ACES/PIES support"
+   ],
+   "body": "Vazlo combines geographic and application intelligence to help determine what assortment each market requires. Manufacturing in Mexico and U.S. distribution connect those decisions with regional availability, while digital catalog and systems integration help support expansion across channels.",
+   "cta_text": "Explore a New Market"
+  },
+  {
+   "id": "dev",
+   "theme": "Product Development",
+   "name": "Co-Develop Solutions & Products",
+   "title": "Be first to solve unmet repair needs",
+   "claim": "Turn an identified market opportunity into a designed, validated and scalable product.",
+   "points": [
+    "Identification of applications with unmet demand",
+    "Joint engineering and material development",
+    "Technical validation and performance testing",
+    "Flexible scaling from development into production"
+   ],
+   "body": "Vazlo works with customers from opportunity identification through design, validation and industrialization. Application intelligence, specialized engineering, technical laboratories and integrated production help move differentiated products from market need to commercial launch.",
+   "cta_text": "Develop a Solution"
+  },
+  {
+   "id": "trace",
+   "theme": "Sustainability & Traceability",
+   "name": "Secure Responsible & Traceable Supply",
+   "title": "Gain greater visibility into materials and production",
+   "claim": "Build greater transparency around the origin and transformation of critical materials.",
+   "points": [
+    "Own natural rubber production",
+    "Integrated formulation capabilities",
+    "Visibility across materials and manufacturing processes",
+    "Regional Mexico-U.S. operations"
+   ],
+   "body": "Vazlo’s control over rubber production, formulation and manufacturing provides a practical foundation for material and process traceability. Vertical integration allows Vazlo to work with customer supply-chain and quality teams on origin, documentation and production requirements.",
+   "cta_text": "Discuss Traceability"
+  }
+ ],
+ "archive": [
+  {
+   "label": "October 2026",
+   "href": "#"
+  },
+  {
+   "label": "September 2026",
+   "href": "#"
+  }
+ ]
+}
