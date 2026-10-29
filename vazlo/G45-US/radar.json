@@ -19,7 +19,7 @@
    "previous": 5,
    "offer": {
     "id": "inv",
-    "name": "Optimize Sourcing & Inventory"
+    "name": "Optimize Your Sourcing and Inventory"
    }
   },
   {
@@ -167,7 +167,7 @@
  "copy": {
   "chart_caption": "Companies announcing initiatives in each strategic area during the last 30 days.",
   "stories_k": "Aftermarket intelligence",
-  "stories_h": "The moves shaping the aftermarket",
+  "stories_h": "The strategic priorities shaping the aftermarket",
   "stories_lead": "New investments, product launches, market entries, channel expansion and competitive moves across the automotive aftermarket.",
   "search_ph": "Search company, initiative or theme"
  },
@@ -183,106 +183,107 @@
   {
    "id": "inv",
    "theme": "Inventory Optimization",
-   "name": "Optimize Sourcing & Inventory",
-   "title": "Improve availability without overinvesting in inventory",
-   "claim": "Align inventory with the applications and demand your market actually needs.",
+   "name": "Optimize Your Sourcing and Inventory",
+   "title": "Improve availability while reducing capital tied up in slow-moving inventory",
+   "claim": "Reduce lost sales from stockouts and capital tied up in slow-moving part numbers. We combine demand intelligence with integrated production and regional supply to align inventory and sourcing with the applications your business needs.",
    "points": [
-    "Demand-based application coverage",
-    "Integrated production aligned with operational needs",
-    "Regional sourcing from Mexico and the U.S.",
-    "Product controls that support reliability and reduce returns"
+    "Demand-based coverage. Inventory priorities based on applications and sales patterns.",
+    "Integrated production. Coordination of materials and manufacturing with your operational requirements.",
+    "Regional sourcing. Supply options from Mexico and the U.S. based on your SKU mix and order volumes.",
+    "Product reliability. Engineering and manufacturing controls reduce product-related returns."
    ],
-   "body": "Vazlo combines demand intelligence with integrated production and regional supply to help reduce lost sales from stockouts while limiting capital tied up in slow-moving part numbers. We work with your team to balance coverage, product reliability and inventory investment around the needs of your market.",
+   "body": "Intelligence & Supply Under Control. Our demand data guide inventory decisions. Integrated production, the validation laboratory and the Mexico–U.S. platform connect those decisions with products and supply. We work with you to balance coverage, reliability and inventory investment.",
    "cta_text": "Optimize My Inventory"
   },
   {
    "id": "mix",
    "theme": "Category Growth",
-   "name": "Improve Product Mix & Category Profitability",
-   "title": "Make every part number work harder",
-   "claim": "Build an assortment aligned with demand, turnover and commercial opportunity.",
+   "name": "Improve Your Product Mix & Category Profitability",
+   "title": "Maximize productivity per part number and return on investment",
+   "claim": "Improve category margin and profit contribution with an assortment aligned with market demand. Through our PARTNER program, we turn market and business information into ongoing decisions on coverage, inventory turnover and sales opportunities.",
    "points": [
-    "Joint analysis of demand, coverage, sales and inventory",
-    "Identification of high-potential applications",
-    "Part-number mapping and phased assortment transitions",
-    "Continuous category review through PARTNER"
+    "Category assessment. Joint analysis of demand, coverage, sales and inventory.",
+    "Assortment opportunities. Select applications based on inventory turnover and sales potential.",
+    "Assortment transition. Part number mapping and phased changes to support continuity.",
+    "Ongoing adjustments. Monitoring of sales, coverage and inventory through PARTNER."
    ],
-   "body": "Vazlo combines market intelligence with your sales and inventory data to support better decisions on which part numbers to add, retain, replace or adjust. The objective is not simply more SKUs — it is a more productive and profitable category.",
+   "body": "Category Management Through PARTNER. We integrate demand intelligence with your business's sales and inventory data. Our specialists support category assessment, assortment design, transition and ongoing adjustments. We turn information into decisions about which part numbers to add, retain or adjust.",
    "cta_text": "Review My Category"
   },
   {
    "id": "cust",
    "theme": "New Sales Channels",
    "name": "Win, Grow & Retain Customers",
-   "title": "Cover more repair needs and create more sales opportunities",
-   "claim": "Give professional and DIY customers more reasons to find, buy and return to your business.",
+   "title": "Serve more repair needs and build customer loyalty",
+   "claim": "Win new customers and support more repair needs with a broader assortment of relevant, reliable parts. We combine demand insights, application development and manufacturing control so your professional and DIY customers can find the best solution for their needs.",
    "points": [
-    "Assortment informed by vehicle population and regional demand",
-    "New applications for unmet repair needs",
-    "Specialized mount and vibration engineering",
-    "Technical support for correct selection and use"
+    "Relevant assortment. Applications selected using vehicle population intelligence and demand data for your region.",
+    "More sales opportunities. Development of part numbers for newer applications and unmet repair needs.",
+    "Fit & performance. Specialized mount engineering for fit and vibration control.",
+    "Quality from the source. Control over rubber, formulation and manufacturing to support reliable repairs.",
+    "Technical expertise. Specialist support for the correct selection, installation and use of each part."
    ],
-   "body": "Vehicle population and application intelligence guide Vazlo’s product development. Engineering, laboratory resources and integrated manufacturing turn that intelligence into reliable solutions that increase relevant coverage and help your business serve more repair needs.",
+   "body": "Intelligence Applied to Every Repair. Our vehicle population and application data guide product development. Our engineering team, rubber laboratory and integrated production turn that knowledge into specialized solutions for your assortment. We combine relevant coverage with manufacturing control to give your customers more reasons to buy and return.",
    "cta_text": "Find Growth Opportunities"
   },
   {
    "id": "range",
    "theme": "Assortment Expansion",
    "name": "Broaden Your Assortment & Business Lines",
-   "title": "Turn unmet repair needs into new revenue",
-   "claim": "Identify coverage gaps and develop products with real commercial potential.",
+   "title": "Turn more repair needs into sales",
+   "claim": "Expand your offering with new applications and high-demand repair solutions. We integrate demand insights, engineering and flexible manufacturing to identify coverage gaps and develop products with commercial potential.",
    "points": [
-    "Identification of missing applications",
-    "Flexible rubber, aluminum and steel production",
-    "Products developed to specification",
-    "Repair kits that support complete repairs and additional sales"
+    "Coverage gaps. Identification of missing applications with commercial potential.",
+    "Flexible production. Rubber, aluminum and steel processing to develop and scale part numbers.",
+    "Products to specification. Designs and material formulations tailored to application requirements.",
+    "Repair kits. Group related components to support complete repairs and additional sales."
    ],
-   "body": "Vazlo combines application intelligence, technical resources and flexible manufacturing to identify gaps in your assortment and develop new part numbers around real market needs. From individual applications to repair kits, we help convert unmet repair demand into differentiated commercial opportunities.",
+   "body": "Engineering and Manufacturing to Expand Your Offering. Our technical team combines application intelligence, laboratory resources and rubber, aluminum and steel capabilities. We develop and validate solutions to specification to bring new part numbers to your category. We work with you to turn repair needs into a differentiated market offering.",
    "cta_text": "Expand My Assortment"
   },
   {
    "id": "mkt",
    "theme": "New Markets",
    "name": "Expand Your Channels & Markets",
-   "title": "Enter new markets with the right assortment",
-   "claim": "Align coverage and availability with the demand profile of each market and channel.",
+   "title": "Create more opportunities with the right assortment",
+   "claim": "Grow across existing channels and enter new markets with an assortment aligned with regional demand. Our geographic and application intelligence is combined with production in Mexico (USMCA) and U.S. logistics to support your expansion.",
    "points": [
-    "Opportunity identification by geography and application",
-    "Assortment tailored to regional vehicle populations",
-    "Manufacturing in Mexico with U.S. inventory and distribution",
-    "Digital catalog, EDI and ACES/PIES support"
+    "Regional opportunities. Identification of demand by geography, vehicle make and application.",
+    "Tailored assortment. Coverage aligned with the vehicle population in each market.",
+    "Regional availability. Production in Mexico, with inventory and distribution in the U.S.",
+    "Focused expansion. Prioritize applications that match the needs of customers in each channel."
    ],
-   "body": "Vazlo combines geographic and application intelligence to help determine what assortment each market requires. Manufacturing in Mexico and U.S. distribution connect those decisions with regional availability, while digital catalog and systems integration help support expansion across channels.",
+   "body": "Specialization by Region & Application. Our demand and vehicle population data help tailor your assortment to each region. Manufacturing in Mexico and U.S. distribution support timely delivery to your stores. The digital catalog, EDI integration and ACES/PIES facilitate connections with your channels and systems.",
    "cta_text": "Explore a New Market"
   },
   {
    "id": "dev",
    "theme": "Product Development",
-   "name": "Co-Develop Solutions & Products",
-   "title": "Be first to solve unmet repair needs",
-   "claim": "Turn an identified market opportunity into a designed, validated and scalable product.",
+   "name": "Co-Develop Solutions and Products",
+   "title": "Be first to meet unserved repair needs",
+   "claim": "We work with you to develop differentiated products for applications with unmet demand. Market intelligence, specialized engineering and manufacturing to your specifications help move projects from opportunity to design and launch.",
    "points": [
-    "Identification of applications with unmet demand",
-    "Joint engineering and material development",
-    "Technical validation and performance testing",
-    "Flexible scaling from development into production"
+    "Unmet opportunities. Identification of applications with demand and gaps in supply.",
+    "Joint design. Engineering and material formulations tailored to your project and target markets.",
+    "Technical validation. Materials and performance testing during development.",
+    "Flexible scaling. Coordination of engineering and manufacturing to industrialize new solutions."
    ],
-   "body": "Vazlo works with customers from opportunity identification through design, validation and industrialization. Application intelligence, specialized engineering, technical laboratories and integrated production help move differentiated products from market need to commercial launch.",
+   "body": "Specialized Development Around Your Business. Application intelligence, engineering, precision equipment and technical laboratories support co-development. Manufacturing to specification connects design with industrialization. Our investment capacity and willingness to invest enable product and infrastructure projects aligned with your growth strategy.",
    "cta_text": "Develop a Solution"
   },
   {
    "id": "trace",
    "theme": "Sustainability & Traceability",
-   "name": "Secure Responsible & Traceable Supply",
-   "title": "Gain greater visibility into materials and production",
-   "claim": "Build greater transparency around the origin and transformation of critical materials.",
+   "name": "Secure Sustainable and Responsible Supply",
+   "title": "Gain visibility into material origins & production processes",
+   "claim": "Align your supply with your business's responsibility and traceability requirements. Our control over rubber, formulation and manufacturing provides a practical basis for understanding materials and processes and defining the documentation your organization needs.",
    "points": [
-    "Own natural rubber production",
-    "Integrated formulation capabilities",
-    "Visibility across materials and manufacturing processes",
-    "Regional Mexico-U.S. operations"
+    "Own natural rubber production. Control over a key input for part performance.",
+    "Integrated formulation. Composition and processing tailored to the application.",
+    "Manufacturing visibility. Control over materials and processes to establish evidence of origin.",
+    "Regional operations. Coordination of production in Mexico and distribution from the U.S."
    ],
-   "body": "Vazlo’s control over rubber production, formulation and manufacturing provides a practical foundation for material and process traceability. Vertical integration allows Vazlo to work with customer supply-chain and quality teams on origin, documentation and production requirements.",
+   "body": "Control & Traceability of Materials and Processes. Our own rubber production, formulation expertise, and processing and manufacturing facilities let us manage a core input in our products and track its transformation. Vertical integration enables us to work with your supply chain and quality teams to establish traceability requirements and documentation for materials and processes.",
    "cta_text": "Discuss Traceability"
   }
  ],
