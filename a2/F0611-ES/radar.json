@@ -1,9 +1,9 @@
 {
  "client": "A2",
  "key": "F0611-ES",
- "updated": "2026-10-30T05:12:01Z",
+ "updated": "2026-10-30T05:21:01Z",
  "hero": {
-  "video": null,
+  "video": "/assets/clients/a2/construccion-hero.mp4",
   "image": "/assets/clients/a2/construccion-hero.jpg",
   "credit": "Avila Dos"
  },
