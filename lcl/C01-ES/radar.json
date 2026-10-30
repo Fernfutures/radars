@@ -1,7 +1,7 @@
 {
  "client": "LCL",
  "key": "C01-ES",
- "updated": "2026-10-30T04:52:01Z",
+ "updated": "2026-10-30T05:17:01Z",
  "hero": {
   "video": "/assets/clients/lcl/food-hero.mp4",
   "image": "/assets/clients/lcl/food-hero.jpg",
@@ -9,29 +9,117 @@
  },
  "headline": {
   "title": "Nuevas plantas y ampliación de capacidad marca el ritmo",
-  "text": "4 organizaciones anunciaron nuevas plantas y ampliación de capacidad en los últimos 30 días, frente a 2 en los 30 días anteriores; le siguen adquisiciones, ventas e inversiones (1) y nuevas tiendas y canales físicos (1)."
+  "text": "8 organizaciones anunciaron nuevas plantas y ampliación de capacidad en los últimos 30 días, frente a 2 en los 30 días anteriores; le siguen adquisiciones, ventas e inversiones (2) y crecimiento de las exportaciones (1)."
  },
  "themes": [
   {
    "theme": "Nuevas plantas y ampliación de capacidad",
    "description": "Construir nuevas plantas, centros logísticos y centros de datos, o ampliar instalaciones principales existentes para aumentar la capacidad.",
-   "companies": 4,
-   "previous": 2
+   "companies": 8,
+   "previous": 2,
+   "offer": {
+    "id": "optimise-your-operations",
+    "name": "Optimise your operations"
+   }
   },
   {
    "theme": "Adquisiciones, ventas e inversiones",
    "description": "Comprar, vender o escindir negocios, tomar participaciones minoritarias y gestionar la integración o separación tras las operaciones.",
+   "companies": 2,
+   "previous": 0,
+   "offer": {
+    "id": "grow-your-international-business",
+    "name": "Grow your international business"
+   }
+  },
+  {
+   "theme": "Crecimiento de las exportaciones",
+   "description": "Más capacidad exportadora, venta online transfronteriza, socios de exportación y capacidad comercial y logística para vender más en el exterior.",
    "companies": 1,
-   "previous": 0
+   "previous": 0,
+   "offer": {
+    "id": "grow-your-international-business",
+    "name": "Grow your international business"
+   }
   },
   {
    "theme": "Nuevas tiendas y canales físicos",
    "description": "Nuevas tiendas y sucursales, locales reformados o ampliados, nuevos formatos y redes más grandes de franquicias, mayoristas o concesionarios.",
    "companies": 1,
-   "previous": 0
+   "previous": 0,
+   "offer": {
+    "id": "launch-and-differentiate-new-products",
+    "name": "Launch and differentiate new products"
+   }
   }
  ],
  "stories": [
+  {
+   "date": "2026-10-29",
+   "company": "Panificadora del Levante Ejemplo, S.L.",
+   "title": "Installs a new high-speed packaging line for sliced bread, raising packed capacity by 30% at its Valencia plant (FICTIONAL demo example)",
+   "summary": "Installs a new high-speed packaging line for sliced bread, raising packed capacity by 30% at its Valencia plant (FICTIONAL demo example)",
+   "outlet": "example.com",
+   "url": "https://example.com/demo/demo-panificadora-levante-ejemplo-linea-envasado",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-29",
+   "company": "Lácteos de la Sierra Ejemplo, S.A.",
+   "title": "Opens an 18,000 m2 refrigerated logistics centre in Asturias to consolidate distribution from its two plants (FICTIONAL demo example)",
+   "summary": "Opens an 18,000 m2 refrigerated logistics centre in Asturias to consolidate distribution from its two plants (FICTIONAL demo example)",
+   "outlet": "example.com",
+   "url": "https://example.com/demo/demo-lacteos-sierra-ejemplo-centro-logistico",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-29",
+   "company": "Ebro Foods",
+   "title": "Ebro Foods completed its acquisition of Best Rice's specialty rice business during the third quarter of 2026",
+   "summary": "The acquired rice business is located in the United States. The acquisition cost the group US$47 million, its most significant deal in the period. The deal was completed in the third quarter of 2026.",
+   "outlet": "alimarket.es",
+   "url": "https://www.alimarket.es/alimentacion/noticia/433418/ebro-foods-compra-otro-negocio-arrocero-en-estados-unidos",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-29",
+   "company": "Ebro Foods",
+   "title": "Ebro Foods completed its acquisition of Best Rice's specialty rice business during the third quarter of 2026",
+   "summary": "The acquired rice business is located in the United States. The acquisition cost the group US$47 million, its most significant deal in the period. The deal was completed in the third quarter of 2026.",
+   "outlet": "alimarket.es",
+   "url": "https://www.alimarket.es/alimentacion/noticia/433418/ebro-foods-compra-otro-negocio-arrocero-en-estados-unidos",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-29",
+   "company": "Ebro Foods",
+   "title": "Ebro Foods completed its acquisition of Best Rice's specialty rice business during the third quarter of 2026",
+   "summary": "The acquired rice business is located in the United States. The acquisition cost the group US$47 million, its most significant deal in the period. The deal was completed in the third quarter of 2026.",
+   "outlet": "alimarket.es",
+   "url": "https://www.alimarket.es/alimentacion/noticia/433418/ebro-foods-compra-otro-negocio-arrocero-en-estados-unidos",
+   "theme": "Adquisiciones, ventas e inversiones",
+   "image": "/assets/themes/strategic-m-and-a-divestitures-venturing.jpg",
+   "image_credit": "Cytonn Photography · Unsplash"
+  },
+  {
+   "date": "2026-10-28",
+   "company": "Conservas del Norte Ejemplo, S.L.",
+   "title": "Opens a sales subsidiary in the United States and signs two importers to double its exports of canned fish by 2028 (FICTIONAL demo example)",
+   "summary": "Opens a sales subsidiary in the United States and signs two importers to double its exports of canned fish by 2028 (FICTIONAL demo example)",
+   "outlet": "example.com",
+   "url": "https://example.com/demo/demo-conservas-del-norte-ejemplo-exportacion",
+   "theme": "Crecimiento de las exportaciones",
+   "image": null,
+   "image_credit": null
+  },
   {
    "date": "2026-10-27",
    "company": "Europastry",
@@ -89,6 +177,28 @@
   },
   {
    "date": "2026-10-23",
+   "company": "Familia Martinez",
+   "title": "Familia Martínez will invest 95 million euros more through 2030 to expand its prepared-dish capacity, focused on roast and gratin dishes",
+   "summary": "The new roast plant is in Buñol, Valencia, next to existing facilities, and the company's complex there will exceed 56,000 m². The expansion will bring annual roast production to 36,000 tonnes and add at least 100 jobs. The four remaining roast lines will be added in stages between 2027 and 2030.",
+   "outlet": "interempresas.net",
+   "url": "https://www.interempresas.net/Alimentaria/666878-Familia-Martinez-invertira-95-millones-euros-hasta-2030-ampliar-produccion-asados.html",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Familia Martinez",
+   "title": "Familia Martínez will invest 95 million euros more through 2030 to expand its prepared-dish capacity, focused on roast and gratin dishes",
+   "summary": "The new roast plant is in Buñol, Valencia, next to existing facilities, and the company's complex there will exceed 56,000 m². The expansion will bring annual roast production to 36,000 tonnes and add at least 100 jobs. The four remaining roast lines will be added in stages between 2027 and 2030.",
+   "outlet": "interempresas.net",
+   "url": "https://www.interempresas.net/Alimentaria/666878-Familia-Martinez-invertira-95-millones-euros-hasta-2030-ampliar-produccion-asados.html",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-23",
    "company": "Bonarea",
    "title": "bonÀrea reopened its enlarged store in Sant Vicenç dels Horts, roughly doubling the product range on offer",
    "summary": "The store is on calle Miguel Hernández in Sant Vicenç dels Horts, Barcelona province. Sales area grew from 147 to 200 square metres, references rose from about 1,400 to about 2,900, and staff went from eight to 10.",
@@ -113,8 +223,8 @@
   "role": "Commercial Director · La Cartonera Lucentina",
   "photo": "",
   "text": "Cuando un fabricante de alimentos invierte en una nueva línea de producción, lanza un producto o se introduce en un nuevo mercado, las decisiones sobre el embalaje que se tomen desde el principio pueden tener un impacto directo en la eficiencia, el momento del lanzamiento y la continuidad del suministro. En LCL, colaboramos con nuestros clientes desde el principio para desarrollar un embalaje que esté preparado para la operación, y no que haya que adaptarlo posteriormente.",
-  "link_text": "",
-  "theme": ""
+  "link_text": "Talk to us about your next line",
+  "theme": "Nuevas plantas y ampliación de capacidad"
  },
  "offers": [
   {
@@ -133,7 +243,7 @@
   },
   {
    "id": "grow-your-international-business",
-   "theme": "Expansión internacional",
+   "theme": "Adquisiciones, ventas e inversiones",
    "name": "Grow your international business",
    "title": "Packaging engineered to travel",
    "claim": "Protect your products, your brand and your margins as you enter new markets.",
@@ -147,7 +257,7 @@
   },
   {
    "id": "launch-and-differentiate-new-products",
-   "theme": "Campañas de marca y marketing",
+   "theme": "Nuevas tiendas y canales físicos",
    "name": "Launch and differentiate new products",
    "title": "From concept to market with greater flexibility",
    "claim": "Give every new product the packaging it needs to stand out, without letting packaging slow the launch.",
@@ -161,7 +271,7 @@
   },
   {
    "id": "optimise-your-operations",
-   "theme": "Procesos más simples y ágiles",
+   "theme": "Nuevas plantas y ampliación de capacidad",
    "name": "Optimise your operations",
    "title": "Packaging designed around your production",
    "claim": "Make packaging part of the efficiency of your new line from day one.",
