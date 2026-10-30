@@ -1,31 +1,42 @@
 {
  "client": "LCL",
  "key": "C01-ES",
- "updated": "2026-10-29T21:26:05Z",
+ "updated": "2026-10-30T02:20:20Z",
  "hero": {
   "video": null,
   "image": null,
   "credit": null
  },
  "headline": {
-  "title": "Acquisitions, sales & investments sets the pace",
-  "text": "1 organisation announced acquisitions, sales & investments in the last 30 days, none in the 30 days before; new plants & capacity expansion (1) follows."
+  "title": "New plants & capacity expansion sets the pace",
+  "text": "2 organisations announced new plants & capacity expansion in the last 30 days, none in the 30 days before; acquisitions, sales & investments (1) follows."
  },
  "themes": [
+  {
+   "theme": "New plants & capacity expansion",
+   "description": "Building new plants, logistics sites and data centres, or expanding existing core facilities to add capacity.",
+   "companies": 2,
+   "previous": 0
+  },
   {
    "theme": "Acquisitions, sales & investments",
    "description": "Buying, selling or carving out businesses, taking minority stakes, and managing integration or separation after deals.",
    "companies": 1,
    "previous": 0
-  },
-  {
-   "theme": "New plants & capacity expansion",
-   "description": "Building new plants, logistics sites and data centres, or expanding existing core facilities to add capacity.",
-   "companies": 1,
-   "previous": 0
   }
  ],
  "stories": [
+  {
+   "date": "2026-10-27",
+   "company": "Europastry",
+   "title": "Europastry will open a cold-chain logistics facility in 2027 at Barcelona City Hub, developed by Goodman on the former Nissan factory grounds",
+   "summary": "The site is in the Zona Franca district of Barcelona, Catalonia, near the port and Mercabarna. The building covers 8,937 square metres, including 7,403 square metres of storage at -22 ºC and a 1,000 kWp solar plant. The opening is planned for 2027.",
+   "outlet": "cronicaglobal.elespanol.com",
+   "url": "https://cronicaglobal.elespanol.com/business/20261027/europastry-abrira-centro-logistico-antiguos-terrenos-nissan/1003742806655_0.html",
+   "theme": "New plants & capacity expansion",
+   "image": null,
+   "image_credit": null
+  },
   {
    "date": "2026-10-27",
    "company": "Embutidos la Granja SL",
