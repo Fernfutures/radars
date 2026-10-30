@@ -1,7 +1,7 @@
 {
  "client": "LCL",
  "key": "C01-ES",
- "updated": "2026-10-30T05:17:01Z",
+ "updated": "2026-10-30T05:52:01Z",
  "hero": {
   "video": "/assets/clients/lcl/food-hero.mp4",
   "image": "/assets/clients/lcl/food-hero.jpg",
@@ -57,8 +57,8 @@
   {
    "date": "2026-10-29",
    "company": "Panificadora del Levante Ejemplo, S.L.",
-   "title": "Installs a new high-speed packaging line for sliced bread, raising packed capacity by 30% at its Valencia plant (FICTIONAL demo example)",
-   "summary": "Installs a new high-speed packaging line for sliced bread, raising packed capacity by 30% at its Valencia plant (FICTIONAL demo example)",
+   "title": "Instala una línea de envasado de alta velocidad para pan de molde y eleva un 30 % la capacidad envasada de su planta de Valencia (ejemplo ficticio para la demo)",
+   "summary": "Ejemplo para la demo: la panificadora ficticia Panificadora Levante Ejemplo instala una línea de envasado de alta velocidad y eleva un 30 % su capacidad envasada.",
    "outlet": "example.com",
    "url": "https://example.com/demo/demo-panificadora-levante-ejemplo-linea-envasado",
    "theme": "Nuevas plantas y ampliación de capacidad",
@@ -68,8 +68,8 @@
   {
    "date": "2026-10-29",
    "company": "Lácteos de la Sierra Ejemplo, S.A.",
-   "title": "Opens an 18,000 m2 refrigerated logistics centre in Asturias to consolidate distribution from its two plants (FICTIONAL demo example)",
-   "summary": "Opens an 18,000 m2 refrigerated logistics centre in Asturias to consolidate distribution from its two plants (FICTIONAL demo example)",
+   "title": "Abre un centro logístico refrigerado de 18.000 m² en Asturias para concentrar la distribución de sus dos fábricas (ejemplo ficticio para la demo)",
+   "summary": "Ejemplo para la demo: la láctea ficticia Lácteos Sierra Ejemplo estrena un centro logístico refrigerado de 18.000 m² que concentra la expedición de sus dos fábricas.",
    "outlet": "example.com",
    "url": "https://example.com/demo/demo-lacteos-sierra-ejemplo-centro-logistico",
    "theme": "Nuevas plantas y ampliación de capacidad",
@@ -112,8 +112,8 @@
   {
    "date": "2026-10-28",
    "company": "Conservas del Norte Ejemplo, S.L.",
-   "title": "Opens a sales subsidiary in the United States and signs two importers to double its exports of canned fish by 2028 (FICTIONAL demo example)",
-   "summary": "Opens a sales subsidiary in the United States and signs two importers to double its exports of canned fish by 2028 (FICTIONAL demo example)",
+   "title": "Abre una filial comercial en Estados Unidos y firma con dos importadores para duplicar sus exportaciones de conservas de pescado en 2028 (ejemplo ficticio para la demo)",
+   "summary": "Ejemplo para la demo: la conservera ficticia Conservas del Norte Ejemplo abre filial en Miami y firma con dos importadores para duplicar sus exportaciones.",
    "outlet": "example.com",
    "url": "https://example.com/demo/demo-conservas-del-norte-ejemplo-exportacion",
    "theme": "Crecimiento de las exportaciones",
