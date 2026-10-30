@@ -1,7 +1,7 @@
 {
  "client": "A2",
  "key": "F0611-ES",
- "updated": "2026-10-30T05:21:01Z",
+ "updated": "2026-10-30T05:31:01Z",
  "hero": {
   "video": "/assets/clients/a2/construccion-hero.mp4",
   "image": "/assets/clients/a2/construccion-hero.jpg",
@@ -16,7 +16,11 @@
    "theme": "Nuevas tiendas y canales físicos",
    "description": "Nuevas tiendas y sucursales, locales reformados o ampliados, nuevos formatos y redes más grandes de franquicias, mayoristas o concesionarios.",
    "companies": 1,
-   "previous": 0
+   "previous": 0,
+   "offer": {
+    "id": "haz-crecer-tus-ventas-nacionales-e-internacionales",
+    "name": "Haz crecer tus ventas nacionales e internacionales"
+   }
   },
   {
    "theme": "Rediseño de la red de distribución",
@@ -99,7 +103,7 @@
   },
   {
    "id": "haz-crecer-tus-ventas-nacionales-e-internacionales",
-   "theme": "Expansión nacional",
+   "theme": "Nuevas tiendas y canales físicos",
    "name": "Haz crecer tus ventas nacionales e internacionales",
    "title": "Crece sin que la logística limite tu potencial",
    "claim": "Amplía tu negocio con una oferta flexible y una operación preparada para acompañar tu crecimiento.",
