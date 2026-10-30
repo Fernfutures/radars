@@ -1,0 +1,130 @@
+{
+ "client": "A2",
+ "key": "F0611-ES",
+ "updated": "2026-10-30T04:48:01Z",
+ "hero": {
+  "video": null,
+  "image": null,
+  "credit": null
+ },
+ "headline": {
+  "title": "La ampliación de oferta está acelerando",
+  "text": "Distribuidores y marcas están ampliando gamas, incorporando nuevos diseños y buscando propuestas más flexibles para responder a clientes que exigen mayor personalización, rapidez y variedad."
+ },
+ "themes": [],
+ "stories": [],
+ "brand_short": "Avila Dos",
+ "brand_name": "Avila Dos",
+ "copy": {
+  "chart_caption": "Empresas del sector de materiales y equipamiento de construcción que han anunciado iniciativas en cada área estratégica durante los últimos 30 días.",
+  "stories_k": "INDUSTRIA DE MATERIALES DE CONSTRUCCIÓN · ESPAÑA",
+  "stories_h": "Las prioridades estratégicas que marcan el rumbo del sector",
+  "stories_lead": "Distribuidores y marcas están ampliando gamas, incorporando nuevos diseños y buscando propuestas más flexibles para responder a clientes que exigen mayor personalización, rapidez y variedad.",
+  "search_ph": "Buscar empresas, iniciativas o tendencias"
+ },
+ "host_note": {
+  "name": "Rosa Algar",
+  "role": "Directora Comercial · Avila Dos",
+  "photo": "",
+  "text": "Hoy no basta con tener producto disponible. Los clientes esperan más opciones, mayor personalización y plazos cada vez más cortos. La oportunidad para los distribuidores está en ampliar su propuesta sin añadir complejidad ni exceso de inventario. Ahí es donde una gama flexible y una producción rápida pueden convertirse en una ventaja competitiva.",
+  "link_text": "Descubre cómo ampliar y diferenciar tu gama",
+  "theme": ""
+ },
+ "offers": [
+  {
+   "id": "amplia-y-diferencia-tu-gama",
+   "theme": "Nuevos productos en categorías afines",
+   "name": "Amplía y diferencia tu gama",
+   "title": "Ofrece más opciones sin añadir complejidad",
+   "claim": "Amplía tu oferta con una de las gamas de muebles de baño más amplias y flexibles del mercado.",
+   "points": [
+    "Más de 35.000 opciones en colores, acabados y configuraciones",
+    "Diseños personalizados para proyectos y clientes específicos",
+    "Producción exprés de modelos estándar en 3 días",
+    "Soluciones adaptadas a hogar, oficina y hostelería"
+   ],
+   "body": "Convierte una mayor capacidad de elección en una ventaja competitiva. Avila Dos combina variedad, diseño y capacidad productiva para ayudarte a ampliar tu oferta sin depender de una gama rígida. Nuestros equipos trabajan contigo para adaptar soluciones a diferentes clientes, espacios y proyectos, convirtiendo nuevas necesidades de mercado en oportunidades de venta.",
+   "cta_text": "Ampliar mi gama"
+  },
+  {
+   "id": "fortalece-y-diferencia-tu-marca",
+   "theme": "Campañas de marca y marketing",
+   "name": "Fortalece y diferencia tu marca",
+   "title": "Haz que tu oferta sea más difícil de comparar",
+   "claim": "Construye una propuesta propia con muebles personalizables y soluciones exclusivas para tu marca.",
+   "points": [
+    "Más de 35.000 configuraciones",
+    "Diseños personalizados",
+    "Producción rápida",
+    "Soluciones exclusivas comercializadas bajo tu propia identidad"
+   ],
+   "body": "Diferénciate con producto, diseño y servicio. Avila Dos permite a distribuidores y marcas construir una oferta que va más allá del producto estándar. Combinamos diseño, personalización y capacidad productiva para ayudarte a crear propuestas diferenciadas, reforzar tu posicionamiento y evitar competir únicamente en precio.",
+   "cta_text": "Diferenciar mi marca"
+  },
+  {
+   "id": "haz-crecer-tus-ventas-nacionales-e-internacionales",
+   "theme": "Expansión nacional",
+   "name": "Haz crecer tus ventas nacionales e internacionales",
+   "title": "Crece sin que la logística limite tu potencial",
+   "claim": "Amplía tu negocio con una oferta flexible y una operación preparada para acompañar tu crecimiento.",
+   "points": [
+    "Cobertura nacional e internacional",
+    "Entrega a múltiples centros de distribución",
+    "Producción rápida para proteger continuidad",
+    "Experiencia exportadora"
+   ],
+   "body": "Más mercados. Más clientes. La misma fiabilidad. Avila Dos combina producción, servicio y logística para acompañar el crecimiento de distribuidores y marcas en España y en mercados internacionales. Trabajamos contigo para que el aumento de volumen, la entrada en nuevos mercados o la ampliación de tu red no comprometan la continuidad de suministro ni la experiencia de cliente.",
+   "cta_text": "Explorar nuevos mercados"
+  },
+  {
+   "id": "mejora-la-experiencia-de-tus-clientes",
+   "theme": "Mejoras en atención al cliente",
+   "name": "Mejora la experiencia de tus clientes",
+   "title": "Convierte cada proyecto en una experiencia más fácil de comprar",
+   "claim": "Facilita a tus clientes encontrar una solución que se adapte a su estilo, espacio y necesidades.",
+   "points": [
+    "Más de 35.000 combinaciones para facilitar la elección",
+    "Diseños a medida",
+    "Producción estándar en 3 días",
+    "Atención personalizada durante el proceso"
+   ],
+   "body": "Más elección, menos fricción y mayor rapidez. Avila Dos acompaña al cliente desde la elección hasta la entrega con una propuesta diseñada para reducir fricciones. La combinación de variedad, personalización y rapidez permite a distribuidores y marcas mejorar el servicio, aumentar la satisfacción y generar relaciones de mayor fidelidad.",
+   "cta_text": "Mejorar la experiencia de cliente"
+  },
+  {
+   "id": "optimiza-tus-operaciones-y-logistica",
+   "theme": "Reducción de costes de inventario",
+   "name": "Optimiza tus operaciones y logística",
+   "title": "Más agilidad. Menos inventario. Mayor continuidad.",
+   "claim": "Reduce la necesidad de inventario y responde más rápido a la demanda con producción y servicio ágiles.",
+   "points": [
+    "Producción de modelos estándar en 3 días",
+    "Menor dependencia de grandes stocks",
+    "Atención comercial dedicada",
+    "Procesos diseñados para reducir incidencias y asegurar continuidad"
+   ],
+   "body": "Haz que tu oferta crezca sin hacer más pesada tu operación. Nuestra velocidad de producción permite responder a pedidos con mayor flexibilidad y reducir la necesidad de mantener grandes inventarios. Producción, logística y atención al cliente trabajan conjuntamente para ayudarte a simplificar operaciones, reducir costes y mantener la continuidad del servicio.",
+   "cta_text": "Optimizar mis operaciones"
+  },
+  {
+   "id": "reduce-tu-huella-ambiental",
+   "theme": "Productos sostenibles",
+   "name": "Reduce tu huella ambiental",
+   "title": "Convierte la sostenibilidad en parte de tu propuesta de valor",
+   "claim": "Refuerza tu estrategia ambiental con muebles fabricados mediante materiales y procesos más sostenibles.",
+   "points": [
+    "Materiales de fuentes renovables",
+    "Criterios de sostenibilidad y trazabilidad",
+    "100% de la energía consumida en producción generada a partir de fuentes renovables",
+    "Embalajes con cartón reciclado y reciclable"
+   ],
+   "body": "Producto, energía y embalaje con menor impacto. La sostenibilidad forma parte del proceso productivo de Avila Dos. Trabajamos para reducir progresivamente materiales no sostenibles, utilizar energía renovable y desarrollar soluciones que permitan a nuestros clientes reforzar también su propio posicionamiento ambiental.",
+   "cta_text": "Hablar sobre sostenibilidad"
+  }
+ ],
+ "default_offer": {
+  "body": "Con más de 35.000 configuraciones, diseño personalizado, producción estándar en 3 días y experiencia en distribución nacional e internacional, Avila Dos combina diseño, gama y soluciones para ayudarte a responder más rápido al mercado y diferenciar tu negocio.",
+  "cta_text": "Habla con nuestro equipo"
+ },
+ "archive": []
+}
