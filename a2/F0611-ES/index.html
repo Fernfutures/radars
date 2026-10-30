@@ -16,8 +16,9 @@
    ============================================================================ */
 :root{
   /* BRAND */
-  --brand:#424951; --brand-ink:#ffffff; --brand-soft:#eeb031;
-  --accent:#17806e;
+  --brand:#424951; --brand-soft:#eeb031; --accent:#17806e;
+  /* D120: the text on each brand colour — white or the ink, set by the script below from the client's text_on_<colour>; these until it runs */
+  --brand-ink:#ffffff; --brand-soft-ink:#14181f; --accent-ink:#ffffff;
   /* NEUTRALS, slightly cooled */
   --paper:#ffffff; --paper-2:#f6f7f9; --line:#e6e8ec; --ink:#14181f; --ink-2:#4b5563; --ink-3:#8a93a2;
   --up:#1b7f5c; --down:#b4443a;
@@ -107,12 +108,13 @@ h2{font-family:var(--serif);font-weight:500;font-size:clamp(26px,3.2vw,34px);lin
 .detail .nums{display:flex;align-items:baseline;gap:12px}
 .detail .nums .n{font-family:var(--serif);font-size:40px;font-weight:500;line-height:1;letter-spacing:-.02em}
 .detail .nums .of{font-size:14px;color:var(--ink-3)}
-.detail .vp{background:var(--brand-soft);border-radius:12px;padding:18px 20px;display:grid;gap:8px;justify-items:start}
-.detail .vp .who{font-size:11.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--brand)}
-.detail .vp h4{font-family:var(--serif);font-weight:500;font-size:22px;line-height:1.15;margin:0}
-.detail .vp p{margin:0;font-size:14.5px;color:var(--ink-2)}
-.detail .vp .claim{font-weight:600;color:var(--ink)}
-.detail .vp ul{margin:2px 0 0;padding-left:18px;font-size:14px;color:var(--ink-2);display:grid;gap:2px}
+.detail .vp{background:var(--brand-soft);color:var(--brand-soft-ink);border-radius:12px;padding:18px 20px;display:grid;gap:8px;justify-items:start}
+.detail .vp .who{font-size:11.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--brand-soft-ink)}
+.detail .vp h4{font-family:var(--serif);font-weight:500;font-size:22px;line-height:1.15;margin:0;color:var(--brand-soft-ink)}
+.detail .vp p{margin:0;font-size:14.5px;color:var(--brand-soft-ink)}
+.detail .vp .claim{font-weight:600;color:var(--brand-soft-ink)}
+.detail .vp ul{margin:2px 0 0;padding-left:18px;font-size:14px;color:var(--brand-soft-ink);display:grid;gap:2px}
+.detail .vp summary{color:var(--brand-soft-ink)}  /* D120: the eyebrow, title, lines, bullets and "+ More" all take the box's text colour */
 .detail .vp a.btn{color:var(--brand-ink);background:var(--brand)}
 .detail .none{font-size:14px;color:var(--ink-3)}
 .legend-list{list-style:none;margin:22px auto 0;padding:0;max-width:1040px;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:4px 18px}
@@ -126,16 +128,16 @@ h2{font-family:var(--serif);font-weight:500;font-size:clamp(26px,3.2vw,34px);lin
 .board .note{font-size:12.5px;color:var(--ink-3);margin-top:14px;max-width:70ch}
 
 /* the host's note: the client speaks once, tied to the month's leading theme */
-.host{margin:34px auto 0;max-width:1040px;display:grid;grid-template-columns:auto 1fr;gap:22px;align-items:center;background:var(--brand-soft);border-radius:14px;padding:22px 26px}
+.host{margin:34px auto 0;max-width:1040px;display:grid;grid-template-columns:auto 1fr;gap:22px;align-items:center;background:var(--brand-soft);color:var(--brand-soft-ink);border-radius:14px;padding:22px 26px}
 @media (max-width:640px){.host{grid-template-columns:1fr}}
 .host .who{display:grid;gap:4px;min-width:150px;justify-items:center;text-align:center}
 .host .who img{width:56px;height:56px;border-radius:50%;object-fit:cover;background:var(--paper)}
 .host .who .ph{width:56px;height:56px;border-radius:50%;background:var(--brand);color:var(--brand-ink);display:grid;place-items:center;font-family:var(--serif);font-size:22px}
 .host .who b{font-size:14px}
-.host .who span{font-size:12.5px;color:var(--ink-2)}
-.host .say{font-family:var(--serif);font-size:19px;line-height:1.4;margin:0;color:var(--ink)}
+.host .who span{font-size:12.5px;color:var(--brand-soft-ink)}
+.host .say{font-family:var(--serif);font-size:19px;line-height:1.4;margin:0;color:var(--brand-soft-ink)}
 .host .offer.big{margin-top:12px;font-size:13px;padding:6px 12px}
-.offer{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;font-weight:600;color:var(--brand);background:var(--brand-soft);border-radius:100px;padding:2px 9px;text-decoration:none;white-space:nowrap;border:0;font-family:inherit;cursor:pointer}
+.offer{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;font-weight:600;color:var(--brand-soft-ink);background:var(--brand-soft);border-radius:100px;padding:2px 9px;text-decoration:none;white-space:nowrap;border:0;font-family:inherit;cursor:pointer}
 .bar .offer{margin-left:4px}
 /* stories: a featured card with image, then a grid of image cards */
 .stories{padding-block:40px 10px;text-align:center}
@@ -196,6 +198,32 @@ footer p{margin:4px auto;max-width:80ch}
 footer a{color:var(--ink-2)}
 @media (prefers-reduced-motion:no-preference){.bar .fill{transition:width .6s ease}}
 </style>
+<script>
+/* D120: the text on each brand colour, from the client's text_on_<colour>: light = white, dark = the ink (--ink), auto (or unset)
+   = whichever of the two has the higher WCAG contrast ratio against that colour. Sets --brand-ink (on --brand), --brand-soft-ink
+   (on --brand-soft) and --accent-ink (on --accent) before the body is drawn. */
+(function(){
+  var MODE={"--brand":"auto","--brand-soft":"auto","--accent":"auto"};
+  var root=document.documentElement, css=getComputedStyle(root), INK=css.getPropertyValue("--ink").trim()||"#14181f", WHITE="#ffffff", g=null;
+  function rgb(c){
+    try{ if(!g) g=document.createElement("canvas").getContext("2d"); }catch(e){ return null; }
+    if(!g||!c) return null;
+    g.fillStyle="#010203"; g.fillStyle=c; var v=g.fillStyle, m;
+    if(v==="#010203"&&c.replace(/\s/g,"").toLowerCase()!=="#010203") return null;           /* not a colour: leave the default */
+    if((m=/^#([0-9a-f]{6})$/i.exec(v))) return [0,2,4].map(function(i){return parseInt(m[1].substr(i,2),16);});
+    if((m=/^rgba?\(([^)]+)\)/.exec(v))) return m[1].split(",").slice(0,3).map(function(x){return parseFloat(x);});
+    return null;
+  }
+  function lum(c){ return c.map(function(v){v/=255;return v<=0.03928?v/12.92:Math.pow((v+0.055)/1.055,2.4);}).reduce(function(a,v,i){return a+v*[0.2126,0.7152,0.0722][i];},0); }
+  function ratio(a,b){ var x=lum(a),y=lum(b); return (Math.max(x,y)+0.05)/(Math.min(x,y)+0.05); }
+  Object.keys(MODE).forEach(function(v){
+    var mode=(MODE[v]||"").trim().toLowerCase(), pick=null;
+    if(mode==="light") pick=WHITE; else if(mode==="dark") pick=INK;
+    else { var bg=rgb(css.getPropertyValue(v).trim()), w=rgb(WHITE), k=rgb(INK); if(bg&&w&&k) pick=ratio(bg,w)>=ratio(bg,k)?WHITE:INK; }
+    if(pick) root.style.setProperty(v+"-ink",pick);
+  });
+})();
+</script>
 </head>
 <body>
 
@@ -257,7 +285,7 @@ footer a{color:var(--ink-2)}
 const RADAR = {
   "client": "A2",
   "key": "F0611-ES",
-  "updated": "2026-10-30T05:31:01Z",
+  "updated": "2026-10-30T05:48:01Z",
   "hero": {
     "video": "/assets/clients/a2/construccion-hero.mp4",
     "image": "/assets/clients/a2/construccion-hero.jpg",
