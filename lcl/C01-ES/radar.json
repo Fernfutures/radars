@@ -1,7 +1,7 @@
 {
  "client": "LCL",
  "key": "C01-ES",
- "updated": "2026-10-30T05:52:01Z",
+ "updated": "2026-10-30T05:57:01Z",
  "hero": {
   "video": "/assets/clients/lcl/food-hero.mp4",
   "image": "/assets/clients/lcl/food-hero.jpg",
@@ -26,11 +26,7 @@
    "theme": "Adquisiciones, ventas e inversiones",
    "description": "Comprar, vender o escindir negocios, tomar participaciones minoritarias y gestionar la integración o separación tras las operaciones.",
    "companies": 2,
-   "previous": 0,
-   "offer": {
-    "id": "grow-your-international-business",
-    "name": "Grow your international business"
-   }
+   "previous": 0
   },
   {
    "theme": "Crecimiento de las exportaciones",
@@ -223,7 +219,7 @@
   "role": "Commercial Director · La Cartonera Lucentina",
   "photo": "",
   "text": "Cuando un fabricante de alimentos invierte en una nueva línea de producción, lanza un producto o se introduce en un nuevo mercado, las decisiones sobre el embalaje que se tomen desde el principio pueden tener un impacto directo en la eficiencia, el momento del lanzamiento y la continuidad del suministro. En LCL, colaboramos con nuestros clientes desde el principio para desarrollar un embalaje que esté preparado para la operación, y no que haya que adaptarlo posteriormente.",
-  "link_text": "Talk to us about your next line",
+  "link_text": "Hablemos de tu próxima línea",
   "theme": "Nuevas plantas y ampliación de capacidad"
  },
  "offers": [
@@ -231,71 +227,71 @@
    "id": "create-packaging-for-direct-to-consumer-growth",
    "theme": "Comercio electrónico y canales digitales",
    "name": "Create packaging for direct-to-consumer growth",
-   "title": "Protect the product. Strengthen the experience.",
-   "claim": "Make every delivery another touchpoint for your brand.",
+   "title": "Protege el producto. Refuerza la experiencia.",
+   "claim": "Haz de cada entrega un punto de contacto más con tu marca.",
    "points": [
-    "Formats designed for e-commerce and direct distribution",
-    "High-impact digital printing",
-    "Flexible production for campaigns, gifting and limited editions"
+    "Formatos diseñados para el comercio electrónico y la distribución directa",
+    "Impresión digital de alto impacto",
+    "Producción flexible para campañas, regalos y ediciones limitadas"
    ],
-   "body": "LCL develops packaging that combines protection, logistics efficiency and brand experience for e-commerce, subscriptions, gifting and other direct-to-consumer channels.",
-   "cta_text": "Talk to us about e-commerce packaging"
+   "body": "LCL desarrolla embalaje que combina protección, eficiencia logística y experiencia de marca para el comercio electrónico, las suscripciones, los regalos y otros canales de venta directa al consumidor.",
+   "cta_text": "Hablemos de embalaje para e-commerce"
   },
   {
    "id": "grow-your-international-business",
-   "theme": "Adquisiciones, ventas e inversiones",
+   "theme": "Crecimiento de las exportaciones",
    "name": "Grow your international business",
-   "title": "Packaging engineered to travel",
-   "claim": "Protect your products, your brand and your margins as you enter new markets.",
+   "title": "Embalaje preparado para viajar",
+   "claim": "Protege tus productos, tu marca y tus márgenes al entrar en nuevos mercados.",
    "points": [
-    "Protective formats designed for international transport",
-    "Packaging optimised for pallet and freight efficiency",
-    "Flexible formats for different markets and commercial requirements"
+    "Formatos protectores diseñados para el transporte internacional",
+    "Embalaje optimizado para aprovechar mejor el palé y el flete",
+    "Formatos flexibles para distintos mercados y requisitos comerciales"
    ],
-   "body": "LCL develops export-ready packaging that protects product integrity from origin to destination while helping optimise space, logistics and presentation across international markets.",
-   "cta_text": "Talk to us about export packaging"
+   "body": "LCL desarrolla embalaje listo para exportar que protege la integridad del producto de origen a destino y ayuda a optimizar el espacio, la logística y la presentación en los mercados internacionales.",
+   "cta_text": "Hablemos de embalaje para exportación"
   },
   {
    "id": "launch-and-differentiate-new-products",
    "theme": "Nuevas tiendas y canales físicos",
    "name": "Launch and differentiate new products",
-   "title": "From concept to market with greater flexibility",
-   "claim": "Give every new product the packaging it needs to stand out, without letting packaging slow the launch.",
+   "title": "Del concepto al mercado con más flexibilidad",
+   "claim": "Dale a cada nuevo producto el embalaje que necesita para destacar, sin que el embalaje retrase el lanzamiento.",
    "points": [
-    "High-impact digital printing",
-    "Flexible production for launches, campaigns and new formats",
-    "Packaging designed for different products and sales channels"
+    "Impresión digital de alto impacto",
+    "Producción flexible para lanzamientos, campañas y nuevos formatos",
+    "Embalaje diseñado para distintos productos y canales de venta"
    ],
-   "body": "LCL combines structural and graphic design with digital printing to develop differentiated packaging for new products, categories and campaigns, from initial launches through to larger production volumes.",
-   "cta_text": "Talk to us about your next launch"
+   "body": "LCL combina diseño estructural y gráfico con impresión digital para desarrollar embalaje diferenciado para nuevos productos, categorías y campañas, desde los primeros lanzamientos hasta volúmenes de producción mayores.",
+   "cta_text": "Hablemos de tu próximo lanzamiento"
   },
   {
    "id": "optimise-your-operations",
    "theme": "Nuevas plantas y ampliación de capacidad",
    "name": "Optimise your operations",
-   "title": "Packaging designed around your production",
-   "claim": "Make packaging part of the efficiency of your new line from day one.",
+   "title": "Embalaje diseñado en torno a tu producción",
+   "claim": "Haz que el embalaje forme parte de la eficiencia de tu nueva línea desde el primer día.",
    "points": [
-    "Formats designed around production, packing and palletisation requirements",
-    "Packaging engineered to improve operational and logistics efficiency",
-    "Safety stock to protect continuity of supply"
+    "Formatos diseñados según tus necesidades de producción, envasado y paletización",
+    "Embalaje pensado para mejorar la eficiencia operativa y logística",
+    "Stock de seguridad para proteger la continuidad del suministro"
    ],
-   "body": "LCL works with your teams to develop packaging formats that integrate with your production and logistics processes, helping reduce unnecessary handling, improve pallet efficiency and support a smooth ramp-up of new capacity.",
-   "cta_text": "Talk to us about your next line"
+   "body": "LCL trabaja con tus equipos para desarrollar formatos de embalaje que se integran en tus procesos de producción y logística: menos manipulaciones innecesarias, palés más eficientes y una puesta en marcha sin sobresaltos de la nueva capacidad.",
+   "cta_text": "Hablemos de tu próxima línea"
   },
   {
    "id": "reduce-your-packaging-impact",
    "theme": "Reducción de residuos y circularidad",
    "name": "Reduce your packaging impact",
-   "title": "Sustainability designed into the pack",
-   "claim": "Turn your packaging into a visible part of your environmental strategy.",
+   "title": "Sostenibilidad integrada en el envase",
+   "claim": "Convierte tu embalaje en una parte visible de tu estrategia medioambiental.",
    "points": [
-    "Recycled and easily recyclable cardboard",
-    "FSC-certified materials",
-    "Packaging designed to optimise material use and logistics"
+    "Cartón reciclado y fácilmente reciclable",
+    "Materiales con certificación FSC",
+    "Embalaje diseñado para optimizar el uso de material y la logística"
    ],
-   "body": "LCL develops fibre-based packaging solutions that help food producers reduce environmental impact while maintaining the protection, functionality and performance their supply chains require.",
-   "cta_text": "Explore sustainable packaging"
+   "body": "LCL desarrolla soluciones de embalaje a base de fibra que ayudan a los productores de alimentación a reducir su impacto ambiental sin renunciar a la protección, la funcionalidad y el rendimiento que exige su cadena de suministro.",
+   "cta_text": "Descubre el embalaje sostenible"
   }
  ],
  "default_offer": {
