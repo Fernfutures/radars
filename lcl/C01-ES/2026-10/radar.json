@@ -8,8 +8,8 @@
   "credit": null
  },
  "headline": {
-  "title": "New plants & capacity expansion sets the pace",
-  "text": "2 organisations announced new plants & capacity expansion in the last 30 days, none in the 30 days before; acquisitions, sales & investments (1) follows."
+  "title": "New plants & capacity expansion marca el ritmo",
+  "text": "2 organizaciones anunciaron new plants & capacity expansion en los últimos 30 días, ninguna en los 30 días anteriores; le sigue acquisitions, sales & investments (1)."
  },
  "themes": [
   {
@@ -63,11 +63,11 @@
  "brand_short": "LCL",
  "brand_name": "La Cartonera Lucentina",
  "copy": {
-  "chart_caption": "Food producers announcing initiatives in each strategic area during the last 30 days.",
-  "stories_k": "Food industry radar",
-  "stories_h": "The moves shaping the sector",
-  "stories_lead": "New investments, launches, markets and business models from food producers in Spain.",
-  "search_ph": "Search companies, initiatives or trends"
+  "chart_caption": "Empresas del sector alimentario que han anunciado iniciativas en cada área estratégica durante los últimos 30 días.",
+  "stories_k": "INDUSTRIA ALIMENTARIA",
+  "stories_h": "Las prioridades estratégicas que marcan el rumbo del sector",
+  "stories_lead": "Nuevas inversiones, lanzamientos, mercados y modelos de negocio de los productores alimentarios en España.",
+  "search_ph": "Buscar empresas, iniciativas o tendencias"
  },
  "host_note": {
   "name": "Rafael Ruiz",
@@ -80,7 +80,7 @@
  "offers": [
   {
    "id": "create-packaging-for-direct-to-consumer-growth",
-   "theme": "E-commerce & digital channels",
+   "theme": "Comercio electrónico y canales digitales",
    "name": "Create packaging for direct-to-consumer growth",
    "title": "Protect the product. Strengthen the experience.",
    "claim": "Make every delivery another touchpoint for your brand.",
@@ -94,7 +94,7 @@
   },
   {
    "id": "grow-your-international-business",
-   "theme": "International expansion",
+   "theme": "Expansión internacional",
    "name": "Grow your international business",
    "title": "Packaging engineered to travel",
    "claim": "Protect your products, your brand and your margins as you enter new markets.",
@@ -108,7 +108,7 @@
   },
   {
    "id": "launch-and-differentiate-new-products",
-   "theme": "Brand & marketing campaigns",
+   "theme": "Campañas de marca y marketing",
    "name": "Launch and differentiate new products",
    "title": "From concept to market with greater flexibility",
    "claim": "Give every new product the packaging it needs to stand out, without letting packaging slow the launch.",
@@ -122,7 +122,7 @@
   },
   {
    "id": "optimise-your-operations",
-   "theme": "Simpler, leaner processes",
+   "theme": "Procesos más simples y ágiles",
    "name": "Optimise your operations",
    "title": "Packaging designed around your production",
    "claim": "Make packaging part of the efficiency of your new line from day one.",
@@ -136,7 +136,7 @@
   },
   {
    "id": "reduce-your-packaging-impact",
-   "theme": "Waste reduction & circularity",
+   "theme": "Reducción de residuos y circularidad",
    "name": "Reduce your packaging impact",
    "title": "Sustainability designed into the pack",
    "claim": "Turn your packaging into a visible part of your environmental strategy.",
@@ -150,8 +150,8 @@
   }
  ],
  "default_offer": {
-  "body": "From structural design and digital printing to export formats, sustainable packaging and supply continuity, LCL works alongside food producers to turn packaging into an enabler of growth.",
-  "cta_text": "Talk to our team"
+  "body": "Desde el diseño estructural y la impresión digital hasta los formatos de exportación, los envases sostenibles y la continuidad del suministro, LCL colabora con los productores alimentarios para convertir el envase en un motor de crecimiento.",
+  "cta_text": "Habla con nuestro equipo"
  },
  "archive": []
 }
