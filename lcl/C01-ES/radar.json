@@ -1,7 +1,7 @@
 {
  "client": "LCL",
  "key": "C01-ES",
- "updated": "2026-10-30T09:34:00Z",
+ "updated": "2026-11-06T10:03:00Z",
  "hero": {
   "video": "/assets/clients/lcl/food-hero.mp4",
   "image": "/assets/clients/lcl/food-hero.jpg",
@@ -9,14 +9,14 @@
  },
  "headline": {
   "title": "Nuevas plantas y ampliación de capacidad marca el ritmo",
-  "text": "8 organizaciones anunciaron nuevas plantas y ampliación de capacidad en los últimos 30 días, frente a 2 en los 30 días anteriores; le siguen adquisiciones, ventas e inversiones (2) y crecimiento de las exportaciones (1)."
+  "text": "6 organizaciones anunciaron nuevas plantas y ampliación de capacidad en los últimos 30 días, ninguna en los 30 días anteriores; le siguen adquisiciones, ventas e inversiones (2) y nuevas tiendas y canales físicos (1)."
  },
  "themes": [
   {
    "theme": "Nuevas plantas y ampliación de capacidad",
    "description": "Construir nuevas plantas, centros logísticos y centros de datos, o ampliar instalaciones principales existentes para aumentar la capacidad.",
-   "companies": 8,
-   "previous": 2,
+   "companies": 6,
+   "previous": 0,
    "offer": {
     "id": "optimiza-tus-operaciones",
     "name": "Optimiza tus operaciones"
@@ -27,16 +27,6 @@
    "description": "Comprar, vender o escindir negocios, tomar participaciones minoritarias y gestionar la integración o separación tras las operaciones.",
    "companies": 2,
    "previous": 0
-  },
-  {
-   "theme": "Crecimiento de las exportaciones",
-   "description": "Más capacidad exportadora, venta online transfronteriza, socios de exportación y capacidad comercial y logística para vender más en el exterior.",
-   "companies": 1,
-   "previous": 0,
-   "offer": {
-    "id": "haz-crecer-tu-negocio-internacional",
-    "name": "Haz crecer tu negocio internacional"
-   }
   },
   {
    "theme": "Nuevas tiendas y canales físicos",
@@ -50,28 +40,6 @@
   }
  ],
  "stories": [
-  {
-   "date": "2026-10-29",
-   "company": "Panificadora del Levante Ejemplo, S.L.",
-   "title": "Instala una línea de envasado de alta velocidad para pan de molde y eleva un 30 % la capacidad envasada de su planta de Valencia (ejemplo ficticio para la demo)",
-   "summary": "Ejemplo para la demo: la panificadora ficticia Panificadora Levante Ejemplo instala una línea de envasado de alta velocidad y eleva un 30 % su capacidad envasada.",
-   "outlet": "example.com",
-   "url": "https://example.com/demo/demo-panificadora-levante-ejemplo-linea-envasado",
-   "theme": "Nuevas plantas y ampliación de capacidad",
-   "image": "/assets/themes/capacity-building-capital-projects.jpg",
-   "image_credit": "Arno Senoner · Unsplash"
-  },
-  {
-   "date": "2026-10-29",
-   "company": "Lácteos de la Sierra Ejemplo, S.A.",
-   "title": "Abre un centro logístico refrigerado de 18.000 m² en Asturias para concentrar la distribución de sus dos fábricas (ejemplo ficticio para la demo)",
-   "summary": "Ejemplo para la demo: la láctea ficticia Lácteos Sierra Ejemplo estrena un centro logístico refrigerado de 18.000 m² que concentra la expedición de sus dos fábricas.",
-   "outlet": "example.com",
-   "url": "https://example.com/demo/demo-lacteos-sierra-ejemplo-centro-logistico",
-   "theme": "Nuevas plantas y ampliación de capacidad",
-   "image": "/assets/themes/capacity-building-capital-projects.jpg",
-   "image_credit": "Arno Senoner · Unsplash"
-  },
   {
    "date": "2026-10-29",
    "company": "Ebro Foods",
@@ -104,17 +72,6 @@
    "theme": "Adquisiciones, ventas e inversiones",
    "image": "/assets/themes/strategic-m-and-a-divestitures-venturing.jpg",
    "image_credit": "Cytonn Photography · Unsplash"
-  },
-  {
-   "date": "2026-10-28",
-   "company": "Conservas del Norte Ejemplo, S.L.",
-   "title": "Abre una filial comercial en Estados Unidos y firma con dos importadores para duplicar sus exportaciones de conservas de pescado en 2028 (ejemplo ficticio para la demo)",
-   "summary": "Ejemplo para la demo: la conservera ficticia Conservas del Norte Ejemplo abre filial en Miami y firma con dos importadores para duplicar sus exportaciones.",
-   "outlet": "example.com",
-   "url": "https://example.com/demo/demo-conservas-del-norte-ejemplo-exportacion",
-   "theme": "Crecimiento de las exportaciones",
-   "image": null,
-   "image_credit": null
   },
   {
    "date": "2026-10-27",
@@ -239,7 +196,7 @@
   },
   {
    "id": "haz-crecer-tu-negocio-internacional",
-   "theme": "Crecimiento de las exportaciones",
+   "theme": "Expansión internacional",
    "name": "Haz crecer tu negocio internacional",
    "title": "Embalaje preparado para viajar",
    "claim": "Protege tus productos, tu marca y tus márgenes al entrar en nuevos mercados.",
@@ -298,5 +255,10 @@
   "body": "Desde el diseño estructural y la impresión digital hasta los formatos de exportación, los envases sostenibles y la continuidad del suministro, LCL colabora con los productores alimentarios para convertir el envase en un motor de crecimiento.",
   "cta_text": "Habla con nuestro equipo"
  },
- "archive": []
+ "archive": [
+  {
+   "label": "Octubre 2026",
+   "href": "2026-10/"
+  }
+ ]
 }

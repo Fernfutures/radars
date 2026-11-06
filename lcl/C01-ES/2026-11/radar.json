@@ -1,0 +1,264 @@
+{
+ "client": "LCL",
+ "key": "C01-ES",
+ "updated": "2026-11-06T10:03:00Z",
+ "hero": {
+  "video": "/assets/clients/lcl/food-hero.mp4",
+  "image": "/assets/clients/lcl/food-hero.jpg",
+  "credit": null
+ },
+ "headline": {
+  "title": "Nuevas plantas y ampliación de capacidad marca el ritmo",
+  "text": "6 organizaciones anunciaron nuevas plantas y ampliación de capacidad en los últimos 30 días, ninguna en los 30 días anteriores; le siguen adquisiciones, ventas e inversiones (2) y nuevas tiendas y canales físicos (1)."
+ },
+ "themes": [
+  {
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "description": "Construir nuevas plantas, centros logísticos y centros de datos, o ampliar instalaciones principales existentes para aumentar la capacidad.",
+   "companies": 6,
+   "previous": 0,
+   "offer": {
+    "id": "optimiza-tus-operaciones",
+    "name": "Optimiza tus operaciones"
+   }
+  },
+  {
+   "theme": "Adquisiciones, ventas e inversiones",
+   "description": "Comprar, vender o escindir negocios, tomar participaciones minoritarias y gestionar la integración o separación tras las operaciones.",
+   "companies": 2,
+   "previous": 0
+  },
+  {
+   "theme": "Nuevas tiendas y canales físicos",
+   "description": "Nuevas tiendas y sucursales, locales reformados o ampliados, nuevos formatos y redes más grandes de franquicias, mayoristas o concesionarios.",
+   "companies": 1,
+   "previous": 0,
+   "offer": {
+    "id": "lanza-y-diferencia-nuevos-productos",
+    "name": "Lanza y diferencia nuevos productos"
+   }
+  }
+ ],
+ "stories": [
+  {
+   "date": "2026-10-29",
+   "company": "Ebro Foods",
+   "title": "Ebro Foods completed its acquisition of Best Rice's specialty rice business during the third quarter of 2026",
+   "summary": "The acquired rice business is located in the United States. The acquisition cost the group US$47 million, its most significant deal in the period. The deal was completed in the third quarter of 2026.",
+   "outlet": "alimarket.es",
+   "url": "https://www.alimarket.es/alimentacion/noticia/433418/ebro-foods-compra-otro-negocio-arrocero-en-estados-unidos",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-29",
+   "company": "Ebro Foods",
+   "title": "Ebro Foods completed its acquisition of Best Rice's specialty rice business during the third quarter of 2026",
+   "summary": "The acquired rice business is located in the United States. The acquisition cost the group US$47 million, its most significant deal in the period. The deal was completed in the third quarter of 2026.",
+   "outlet": "alimarket.es",
+   "url": "https://www.alimarket.es/alimentacion/noticia/433418/ebro-foods-compra-otro-negocio-arrocero-en-estados-unidos",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-29",
+   "company": "Ebro Foods",
+   "title": "Ebro Foods completed its acquisition of Best Rice's specialty rice business during the third quarter of 2026",
+   "summary": "The acquired rice business is located in the United States. The acquisition cost the group US$47 million, its most significant deal in the period. The deal was completed in the third quarter of 2026.",
+   "outlet": "alimarket.es",
+   "url": "https://www.alimarket.es/alimentacion/noticia/433418/ebro-foods-compra-otro-negocio-arrocero-en-estados-unidos",
+   "theme": "Adquisiciones, ventas e inversiones",
+   "image": "/assets/themes/strategic-m-and-a-divestitures-venturing.jpg",
+   "image_credit": "Cytonn Photography · Unsplash"
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Europastry",
+   "title": "Europastry will open a cold-chain logistics facility in 2027 at Barcelona City Hub, developed by Goodman on the former Nissan factory grounds",
+   "summary": "The site is in the Zona Franca district of Barcelona, Catalonia, near the port and Mercabarna. The building covers 8,937 square metres, including 7,403 square metres of storage at -22 ºC and a 1,000 kWp solar plant. The opening is planned for 2027.",
+   "outlet": "cronicaglobal.elespanol.com",
+   "url": "https://cronicaglobal.elespanol.com/business/20261027/europastry-abrira-centro-logistico-antiguos-terrenos-nissan/1003742806655_0.html",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Embutidos la Granja SL",
+   "title": "Expansion of Embutidos La Granja's facilities in Arganda del Rey (Madrid) to increase production capacity and respond faster to orders and demand peaks",
+   "summary": "Expansion of Embutidos La Granja's facilities in Arganda del Rey (Madrid) to increase production capacity and respond faster to orders and demand peaks",
+   "outlet": "financialfood.es",
+   "url": "https://financialfood.es/comienza-a-operar-el-grancay-foods-fruto-de-la-integracion-de-embutidos-la-granja-y-adobos-caysan",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-27",
+   "company": "Embutidos la Granja SL",
+   "title": "Completed integration of Adobos Caysan (Caleya y Santiago) and Embutidos La Granja into a single food group, Grancay Foods, with common management structure",
+   "summary": "Completed integration of Adobos Caysan (Caleya y Santiago) and Embutidos La Granja into a single food group, Grancay Foods, with common management structure",
+   "outlet": "financialfood.es",
+   "url": "https://financialfood.es/comienza-a-operar-el-grancay-foods-fruto-de-la-integracion-de-embutidos-la-granja-y-adobos-caysan",
+   "theme": "Adquisiciones, ventas e inversiones",
+   "image": "/assets/themes/strategic-m-and-a-divestitures-venturing.jpg",
+   "image_credit": "Cytonn Photography · Unsplash"
+  },
+  {
+   "date": "2026-10-26",
+   "company": "Huercasa",
+   "title": "Huercasa inaugurated a new factory in Sanchonuño, Segovia, described as Europe's largest sweet corn on the cob processing plant",
+   "summary": "The company invested 25 million euros in the project. The plant is expected to receive about 500 tonnes of sweet corn daily, raising output by roughly 50%. The inauguration took place on Monday, 26 October 2026. Location: Sanchonuño, Segovia, in Castilla y León.",
+   "outlet": "financialfood.es",
+   "url": "https://financialfood.es/huercasa-inaugura-una-nueva-fabrica-en-segovia-tras-una-inversion-de-25-millones",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-25",
+   "company": "Grup Pons",
+   "title": "Grup Pons will expand and modernise its Molí Nou olive oil mill, adding new machinery, full digital control and a second-extraction area",
+   "summary": "The mill is in L’Albagés, in the Les Garrigues area of Lleida. The investment is €1.12 million, about 80% financed by an ICF Eurocrèdit loan, lifting capacity from about 2,200 to 3,000 tonnes of olives a year. The higher capacity is due from 2030.",
+   "outlet": "oleorevista.com",
+   "url": "https://www.oleorevista.com/texto-diario/mostrar/6063145/grup-pons-ampliara-hasta-3000-toneladas-capacidad-molturacion-moli-nou",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Familia Martinez",
+   "title": "Familia Martínez will invest 95 million euros more through 2030 to expand its prepared-dish capacity, focused on roast and gratin dishes",
+   "summary": "The new roast plant is in Buñol, Valencia, next to existing facilities, and the company's complex there will exceed 56,000 m². The expansion will bring annual roast production to 36,000 tonnes and add at least 100 jobs. The four remaining roast lines will be added in stages between 2027 and 2030.",
+   "outlet": "interempresas.net",
+   "url": "https://www.interempresas.net/Alimentaria/666878-Familia-Martinez-invertira-95-millones-euros-hasta-2030-ampliar-produccion-asados.html",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Familia Martinez",
+   "title": "Familia Martínez will invest 95 million euros more through 2030 to expand its prepared-dish capacity, focused on roast and gratin dishes",
+   "summary": "The new roast plant is in Buñol, Valencia, next to existing facilities, and the company's complex there will exceed 56,000 m². The expansion will bring annual roast production to 36,000 tonnes and add at least 100 jobs. The four remaining roast lines will be added in stages between 2027 and 2030.",
+   "outlet": "interempresas.net",
+   "url": "https://www.interempresas.net/Alimentaria/666878-Familia-Martinez-invertira-95-millones-euros-hasta-2030-ampliar-produccion-asados.html",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "image": "/assets/themes/capacity-building-capital-projects.jpg",
+   "image_credit": "Arno Senoner · Unsplash"
+  },
+  {
+   "date": "2026-10-23",
+   "company": "Bonarea",
+   "title": "bonÀrea reopened its enlarged store in Sant Vicenç dels Horts, roughly doubling the product range on offer",
+   "summary": "The store is on calle Miguel Hernández in Sant Vicenç dels Horts, Barcelona province. Sales area grew from 147 to 200 square metres, references rose from about 1,400 to about 2,900, and staff went from eight to 10.",
+   "outlet": "financialfood.es",
+   "url": "https://financialfood.es/bonarea-amplia-una-de-sus-tiendas-en-sant-vicenc-dels-horts-y-duplica-su-surtido",
+   "theme": "Nuevas tiendas y canales físicos",
+   "image": null,
+   "image_credit": null
+  }
+ ],
+ "brand_short": "LCL",
+ "brand_name": "La Cartonera Lucentina",
+ "copy": {
+  "chart_caption": "Empresas del sector alimentario que han anunciado iniciativas en cada área estratégica durante los últimos 30 días.",
+  "stories_k": "INDUSTRIA ALIMENTARIA",
+  "stories_h": "Las prioridades estratégicas que marcan el rumbo del sector",
+  "stories_lead": "Nuevas inversiones, lanzamientos, mercados y modelos de negocio de los productores alimentarios en España.",
+  "search_ph": "Buscar empresas, iniciativas o tendencias"
+ },
+ "host_note": {
+  "name": "Jesus Alba",
+  "role": "Commercial Director · La Cartonera Lucentina",
+  "photo": "",
+  "text": "Cuando un fabricante de alimentos invierte en una nueva línea de producción, lanza un producto o se introduce en un nuevo mercado, las decisiones sobre el embalaje que se tomen desde el principio pueden tener un impacto directo en la eficiencia, el momento del lanzamiento y la continuidad del suministro. En LCL, colaboramos con nuestros clientes desde el principio para desarrollar un embalaje que esté preparado para la operación, y no que haya que adaptarlo posteriormente.",
+  "link_text": "Hablemos de tu próxima línea",
+  "theme": "Nuevas plantas y ampliación de capacidad"
+ },
+ "offers": [
+  {
+   "id": "envases-para-crecer-en-venta-directa",
+   "theme": "Comercio electrónico y canales digitales",
+   "name": "Envases para crecer en venta directa",
+   "title": "Protege el producto. Refuerza la experiencia.",
+   "claim": "Haz de cada entrega un punto de contacto más con tu marca.",
+   "points": [
+    "Formatos diseñados para el comercio electrónico y la distribución directa",
+    "Impresión digital de alto impacto",
+    "Producción flexible para campañas, regalos y ediciones limitadas"
+   ],
+   "body": "LCL desarrolla embalaje que combina protección, eficiencia logística y experiencia de marca para el comercio electrónico, las suscripciones, los regalos y otros canales de venta directa al consumidor.",
+   "cta_text": "Hablemos de embalaje para e-commerce"
+  },
+  {
+   "id": "haz-crecer-tu-negocio-internacional",
+   "theme": "Expansión internacional",
+   "name": "Haz crecer tu negocio internacional",
+   "title": "Embalaje preparado para viajar",
+   "claim": "Protege tus productos, tu marca y tus márgenes al entrar en nuevos mercados.",
+   "points": [
+    "Formatos protectores diseñados para el transporte internacional",
+    "Embalaje optimizado para aprovechar mejor el palé y el flete",
+    "Formatos flexibles para distintos mercados y requisitos comerciales"
+   ],
+   "body": "LCL desarrolla embalaje listo para exportar que protege la integridad del producto de origen a destino y ayuda a optimizar el espacio, la logística y la presentación en los mercados internacionales.",
+   "cta_text": "Hablemos de embalaje para exportación"
+  },
+  {
+   "id": "lanza-y-diferencia-nuevos-productos",
+   "theme": "Nuevas tiendas y canales físicos",
+   "name": "Lanza y diferencia nuevos productos",
+   "title": "Del concepto al mercado con más flexibilidad",
+   "claim": "Dale a cada nuevo producto el embalaje que necesita para destacar, sin que el embalaje retrase el lanzamiento.",
+   "points": [
+    "Impresión digital de alto impacto",
+    "Producción flexible para lanzamientos, campañas y nuevos formatos",
+    "Embalaje diseñado para distintos productos y canales de venta"
+   ],
+   "body": "LCL combina diseño estructural y gráfico con impresión digital para desarrollar embalaje diferenciado para nuevos productos, categorías y campañas, desde los primeros lanzamientos hasta volúmenes de producción mayores.",
+   "cta_text": "Hablemos de tu próximo lanzamiento"
+  },
+  {
+   "id": "optimiza-tus-operaciones",
+   "theme": "Nuevas plantas y ampliación de capacidad",
+   "name": "Optimiza tus operaciones",
+   "title": "Embalaje diseñado en torno a tu producción",
+   "claim": "Haz que el embalaje forme parte de la eficiencia de tu nueva línea desde el primer día.",
+   "points": [
+    "Formatos diseñados según tus necesidades de producción, envasado y paletización",
+    "Embalaje pensado para mejorar la eficiencia operativa y logística",
+    "Stock de seguridad para proteger la continuidad del suministro"
+   ],
+   "body": "LCL trabaja con tus equipos para desarrollar formatos de embalaje que se integran en tus procesos de producción y logística: menos manipulaciones innecesarias, palés más eficientes y una puesta en marcha sin sobresaltos de la nueva capacidad.",
+   "cta_text": "Hablemos de tu próxima línea"
+  },
+  {
+   "id": "reduce-el-impacto-de-tus-envases",
+   "theme": "Reducción de residuos y circularidad",
+   "name": "Reduce el impacto de tus envases",
+   "title": "Sostenibilidad integrada en el envase",
+   "claim": "Convierte tu embalaje en una parte visible de tu estrategia medioambiental.",
+   "points": [
+    "Cartón reciclado y fácilmente reciclable",
+    "Materiales con certificación FSC",
+    "Embalaje diseñado para optimizar el uso de material y la logística"
+   ],
+   "body": "LCL desarrolla soluciones de embalaje a base de fibra que ayudan a los productores de alimentación a reducir su impacto ambiental sin renunciar a la protección, la funcionalidad y el rendimiento que exige su cadena de suministro.",
+   "cta_text": "Descubre el embalaje sostenible"
+  }
+ ],
+ "default_offer": {
+  "body": "Desde el diseño estructural y la impresión digital hasta los formatos de exportación, los envases sostenibles y la continuidad del suministro, LCL colabora con los productores alimentarios para convertir el envase en un motor de crecimiento.",
+  "cta_text": "Habla con nuestro equipo"
+ },
+ "archive": [
+  {
+   "label": "Octubre 2026",
+   "href": "../2026-10/"
+  }
+ ]
+}
