@@ -13,6 +13,8 @@ site/assets/themes/…                   one picture per Level 3 theme (the news
                                        story whose outlet does not allow hotlinking and whose company has no logo
 site/assets/clients/{code}/…           a subscription's own hero file, which beats the sector set for that client's radar
 site/assets/companies/…                company logos (DIP's #237: favicon or og:image of the company's site, approved)
+site/assets/fernfutures/logo.png        the FernFutures mark in every page's masthead ("Powered by", DIP's D126) — named by
+                                       the template itself, not the feed, so no pipeline.assets row; 66 px tall (3× its 22 px)
 ```
 
 In the feed: `hero` is null or `{video, image, credit}` (one of the two files set); each trigger and story has `image`

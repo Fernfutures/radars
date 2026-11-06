@@ -40,6 +40,14 @@ h2{font-family:var(--serif);font-weight:500;font-size:clamp(26px,3.2vw,34px);lin
 .mast{border-bottom:1px solid var(--line)}
 .mast .wrap{display:flex;justify-content:space-between;align-items:center;gap:16px;padding-block:14px;flex-wrap:wrap}
 .mast .brandline{justify-self:start}.mast .stamp{justify-self:end}
+/* D126: the masthead is the client's logo (its name as the alt; the name in text only when there is no logo), "Radar", then
+   "Powered by" + the FernFutures logo — small, on the masthead's paper (never over the hero); the sector is the hero's */
+.brandgroup{display:flex;align-items:center;gap:10px 16px;flex-wrap:wrap;min-width:0}
+.powered{display:inline-flex;align-items:center;gap:7px;padding-left:16px;border-left:1px solid var(--line);text-decoration:none;color:var(--ink-3);font-size:11px;font-weight:500;letter-spacing:.02em;white-space:nowrap;line-height:1}
+.powered img{height:22px;width:auto;display:block}.powered [hidden]{display:none}
+.powered .ff-word{font-weight:700;font-size:13px;color:var(--ink);letter-spacing:-.01em}
+.powered:hover,.powered:focus-visible{color:var(--ink-2)}
+@media (max-width:640px){.powered img{height:20px}.mast .stamp{flex-wrap:wrap;row-gap:8px}}
 @media (max-width:640px){.mast .wrap{grid-template-columns:1fr;justify-items:center}}
 .brandline{display:flex;align-items:center;gap:12px;text-decoration:none}
 .brandline img{height:30px;width:auto}
@@ -228,7 +236,8 @@ footer a{color:var(--ink-2)}
 <body>
 
 <div class="mast"><div class="wrap">
-  <a class="brandline" href="https://lacartoneralucentina.com"><img src="/assets/clients/lcl/logo.png" alt="" data-field="logo_path"><span class="name" data-field="brand_name">La Cartonera Lucentina</span><span class="sep"></span><span class="radar"><em>Radar</em> · Food industry</span></a>
+  <div class="brandgroup"><a class="brandline" href="https://lacartoneralucentina.com"><img src="/assets/clients/lcl/logo.png" alt="La Cartonera Lucentina" data-field="logo_path"><span class="sep"></span><span class="radar"><em>Radar</em></span></a>
+  <a class="powered" href="https://fernfutures.com" target="_blank" rel="noopener"><span>Powered by</span><img src="/assets/fernfutures/logo.png" alt="FernFutures" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span class="ff-word" hidden>FernFutures</span></a></div>
   <div class="stamp"><span class="live"><i></i><span data-t="updated">Updated</span>&nbsp;<b id="r-updated">—</b></span><a class="btn" href="https://lacartoneralucentina.com/contacto" data-field="masthead_text">Habla con nuestro equipo</a></div>
 </div></div>
 
@@ -285,7 +294,7 @@ footer a{color:var(--ink-2)}
 const RADAR = {
   "client": "LCL",
   "key": "C01-ES",
-  "updated": "2026-11-06T10:03:00Z",
+  "updated": "2026-11-06T11:24:00Z",
   "hero": {
     "video": "/assets/clients/lcl/food-hero.mp4",
     "image": "/assets/clients/lcl/food-hero.jpg",
